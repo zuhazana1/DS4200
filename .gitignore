@@ -1,0 +1,7 @@
+*-bluebikes-tripdata.csv
+*Gated_Station_Entries*.csv
+MBTA_GTFS/
+MBTA_GTFS.zip
+.idea/
+__pycache__/
+.DS_Store
