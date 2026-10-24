@@ -7,6 +7,8 @@ Outputs (written to OUT_DIR):
                          system's own total (for the hourly usage chart)
   stations.csv           one row per Bluebikes station with neighborhood,
                          nearest T stop, distance, and near/away label (for the map)
+  t_stations.csv         every subway/light rail station with its line(s) and
+                         whether it has fare gates (for the map)
 
 Setup:
   pip install pandas numpy geopandas
@@ -14,7 +16,7 @@ Setup:
 Put these in the same folder as this script, then run it from that folder:
   202501-bluebikes-tripdata.csv ... 202512-bluebikes-tripdata.csv
   MBTA_Gated_Station_Entries.csv
-  MBTA_GTFS/stops.txt                 (unzip MBTA_GTFS.zip)
+  MBTA_GTFS/ folder                   (unzip MBTA_GTFS.zip; uses stops, routes, trips, stop_times)
   boston_neighborhood_boundaries.json
   Cambridge_Neighborhood_Polygons.geojson
 """
@@ -88,16 +90,57 @@ def load_t_entries():
     return hourly, line, names
 
 
+def gtfs_line_name(route_id):
+    for key, name in [("Green", "Green Line"), ("Red", "Red Line"), ("Orange", "Orange Line"),
+                      ("Blue", "Blue Line"), ("Mattapan", "Mattapan Line")]:
+        if route_id.startswith(key):
+            return name
+    return route_id
+
+
 def load_t_stations(line, names):
+    """All subway and light rail stations from GTFS, plus any other gated stations
+    (Silver Line Waterfront). Street-level Green Line stops have no fare gates, so they
+    are not in the entries data, but they still count when finding the nearest T stop."""
+    gtfs_dir = os.path.dirname(GTFS_STOPS)
     stops = pd.read_csv(GTFS_STOPS, dtype=str)
-    t = stops[stops["stop_id"].isin(line.index)][["stop_id", "stop_lat", "stop_lon"]].copy()
+    routes = pd.read_csv(os.path.join(gtfs_dir, "routes.txt"), dtype=str)
+    trips = pd.read_csv(os.path.join(gtfs_dir, "trips.txt"), dtype=str, usecols=["route_id", "trip_id"])
+
+    # route_type 0 = light rail (Green Line, Mattapan), 1 = subway
+    rail_routes = set(routes.loc[routes["route_type"].isin(["0", "1"]), "route_id"])
+    trips = trips[trips["route_id"].isin(rail_routes)]
+    trip_route = trips.set_index("trip_id")["route_id"]
+
+    # every stop those trips serve (stop_times is big, so read it in chunks)
+    pairs = []
+    for chunk in pd.read_csv(os.path.join(gtfs_dir, "stop_times.txt"), dtype=str,
+                             usecols=["trip_id", "stop_id"], chunksize=1_000_000):
+        chunk = chunk[chunk["trip_id"].isin(trip_route.index)]
+        chunk["route_id"] = chunk["trip_id"].map(trip_route)
+        pairs.append(chunk[["stop_id", "route_id"]].drop_duplicates())
+    pairs = pd.concat(pairs).drop_duplicates()
+
+    # platforms -> their parent station ("place-..."), the same ids the entries data uses
+    parent = stops.set_index("stop_id")["parent_station"]
+    pairs["station_id"] = pairs["stop_id"].map(parent).fillna(pairs["stop_id"])
+    pairs["line"] = pairs["route_id"].map(gtfs_line_name)
+    gtfs_lines = pairs.groupby("station_id")["line"].apply(lambda s: sorted(set(s)))
+
+    ids = sorted(set(gtfs_lines.index) | set(line.index))
+    t = stops[stops["stop_id"].isin(ids)][["stop_id", "stop_name", "stop_lat", "stop_lon"]].copy()
     t[["stop_lat", "stop_lon"]] = t[["stop_lat", "stop_lon"]].astype(float)
-    missing = set(line.index) - set(t["stop_id"])
+    missing = set(ids) - set(t["stop_id"])
     if missing:
         print(f"Warning: {len(missing)} T stations not found in stops.txt: {sorted(missing)[:10]}")
-    t["t_station"] = t["stop_id"].map(names)
-    t["t_line"] = t["stop_id"].map(line)
-    return t.reset_index(drop=True)
+
+    t["gated"] = t["stop_id"].isin(line.index)
+    t["t_station"] = t["stop_id"].map(names).fillna(t["stop_name"])
+    # main line: the busiest line for gated stations, otherwise the GTFS line
+    t["t_line"] = t["stop_id"].map(line).fillna(t["stop_id"].map(gtfs_lines).str[0])
+    all_lines = t["stop_id"].map(gtfs_lines).apply(lambda x: x if isinstance(x, list) else [])
+    t["lines"] = [", ".join(sorted(set(a) | {b})) for a, b in zip(all_lines, t["t_line"])]
+    return t.drop(columns="stop_name").reset_index(drop=True)
 
 
 # ---------------- 2. Bluebikes trips ----------------
@@ -169,6 +212,7 @@ def add_nearest_t(stations, t):
     stations["nearest_t_stop_id"] = t["stop_id"].values[idx]
     stations["nearest_t_station"] = t["t_station"].values[idx]
     stations["nearest_t_line"] = t["t_line"].values[idx]
+    stations["nearest_t_gated"] = t["gated"].values[idx]
     stations["dist_to_t_m"] = d.min(axis=1).round(0)
     stations["near_transit"] = np.where(stations["dist_to_t_m"] <= NEAR_METERS, "Near", "Away")
     return stations
@@ -211,7 +255,8 @@ def main():
 
     t_hourly, t_line, t_names = load_t_entries()
     t_stations = load_t_stations(t_line, t_names)
-    print(f"T stations with 2025 entry data: {len(t_stations)}")
+    print(f"T stations: {len(t_stations)} total, {t_stations['gated'].sum()} with gated entry data")
+    t_stations.to_csv(os.path.join(OUT_DIR, "t_stations.csv"), index=False)
 
     trips = load_trips()
     stations = build_station_table(trips)
@@ -250,8 +295,11 @@ def main():
     sample = sample.merge(t_hourly, how="left",
                           left_on=["nearest_t_stop_id", "date", "hour"],
                           right_on=["stop_id", "date", "hour"]).drop(columns="stop_id")
+    ungated = ~sample["start_station_id"].map(st["nearest_t_gated"]).astype(bool)
     n_missing = sample["t_entries_hour"].isna().sum()
-    print(f"Trips with no matching T entry count (station closed or no data that hour): {n_missing}")
+    print(f"Trips with no T entry count: {n_missing} "
+          f"({ungated.sum()} because the nearest stop is a street-level stop with no fare gates, "
+          f"{n_missing - ungated.sum()} because a gated station had no data that hour)")
 
     sample = sample.rename(columns={"member_casual": "rider_type", "rideable_type": "bike_type",
                                     "start_station_name": "start_station",

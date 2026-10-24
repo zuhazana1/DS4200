@@ -1,0 +1,128 @@
+stop_id,stop_lat,stop_lon,gated,t_station,t_line,lines
+place-alfcl,42.39583,-71.141287,True,Alewife,Red Line,Red Line
+place-alsgr,42.348701,-71.137955,False,Allston Street,Green Line,Green Line
+place-amory,42.350992,-71.114748,False,Amory Street,Green Line,Green Line
+place-andrw,42.330154,-71.057655,True,Andrew,Red Line,Red Line
+place-aport,42.374262,-71.030395,True,Airport,Blue Line,Blue Line
+place-aqucl,42.359784,-71.051652,True,Aquarium,Blue Line,Blue Line
+place-armnl,42.351902,-71.070893,True,Arlington,Green Line,Green Line
+place-asmnl,42.28452,-71.063777,True,Ashmont,Red Line,"Mattapan Line, Red Line"
+place-astao,42.392811,-71.077257,True,Assembly,Orange Line,Orange Line
+place-babck,42.351616,-71.119924,False,Babcock Street,Green Line,Green Line
+place-balsq,42.399889,-71.111003,True,Ball Square,Green Line,Green Line
+place-bbsta,42.34735,-71.075727,True,Back Bay,Orange Line,Orange Line
+place-bckhl,42.330139,-71.111313,False,Back of the Hill,Green Line,Green Line
+place-bcnfd,42.335765,-71.140455,False,Beaconsfield,Green Line,Green Line
+place-bcnwa,42.339394,-71.13533,False,Washington Square,Green Line,Green Line
+place-bland,42.349293,-71.100258,False,Blandford Street,Green Line,Green Line
+place-bmmnl,42.3975423,-70.9923194,True,Beachmont,Blue Line,Blue Line
+place-bndhl,42.340023,-71.129082,False,Brandon Hall,Green Line,Green Line
+place-bomnl,42.361365,-71.062037,True,Bowdoin,Blue Line,Blue Line
+place-boyls,42.35302,-71.06459,True,Boylston,Green Line,Green Line
+place-brdwy,42.342622,-71.056967,True,Broadway,Red Line,Red Line
+place-brico,42.351967,-71.125031,False,Packard's Corner,Green Line,Green Line
+place-brkhl,42.331316,-71.126683,False,Brookline Hills,Green Line,Green Line
+place-brmnl,42.334229,-71.104609,False,Brigham Circle,Green Line,Green Line
+place-brntn,42.2078543,-71.0011385,True,Braintree,Red Line,Red Line
+place-bucen,42.350082,-71.106865,False,Boston University Central,Green Line,Green Line
+place-buest,42.349735,-71.103889,False,Boston University East,Green Line,Green Line
+place-butlr,42.272429,-71.062519,False,Butler,Mattapan Line,Mattapan Line
+place-bvmnl,42.332608,-71.116857,False,Brookline Village,Green Line,Green Line
+place-capst,42.267563,-71.087338,False,Capen Street,Mattapan Line,Mattapan Line
+place-ccmnl,42.373622,-71.069533,True,Community College,Orange Line,Orange Line
+place-cedgr,42.279629,-71.060394,False,Cedar Grove,Mattapan Line,Mattapan Line
+place-cenav,42.270027,-71.073444,False,Central Avenue,Mattapan Line,Mattapan Line
+place-chhil,42.326753,-71.164699,False,Chestnut Hill,Green Line,Green Line
+place-chill,42.338169,-71.15316,False,Chestnut Hill Avenue,Green Line,Green Line
+place-chmnl,42.361166,-71.070628,True,Charles/MGH,Red Line,Red Line
+place-chncl,42.352547,-71.062752,True,Chinatown,Orange Line,Orange Line
+place-chswk,42.340805,-71.150711,False,Chiswick Road,Green Line,Green Line
+place-clmnl,42.336142,-71.149326,False,Cleveland Circle,Green Line,Green Line
+place-cntsq,42.365486,-71.103802,True,Central,Red Line,Red Line
+place-coecl,42.349974,-71.077447,True,Copley,Green Line,Green Line
+place-cool,42.342116,-71.121263,False,Coolidge Corner,Green Line,Green Line
+place-crtst,42.35245,-71.04685,True,Courthouse,Silver Line,Silver Line
+place-davis,42.39674,-71.121815,True,Davis,Red Line,Red Line
+place-denrd,42.337656,-71.142156,False,Dean Road,Green Line,Green Line
+place-dwnxg,42.355518,-71.060225,True,Downtown Crossing,Red Line,"Orange Line, Red Line"
+place-eliot,42.319045,-71.216684,False,Eliot,Green Line,Green Line
+place-engav,42.337104,-71.144852,False,Englewood Avenue,Green Line,Green Line
+place-esomr,42.379467,-71.086625,True,East Somerville,Green Line,Green Line
+place-fbkst,42.339725,-71.131073,False,Fairbanks Street,Green Line,Green Line
+place-fenwd,42.333706,-71.105728,False,Fenwood Road,Green Line,Green Line
+place-fenwy,42.345403,-71.104213,False,Fenway,Green Line,Green Line
+place-fldcr,42.300093,-71.061667,True,Fields Corner,Red Line,Red Line
+place-forhl,42.300713,-71.113943,True,Forest Hills,Orange Line,Orange Line
+place-gilmn,42.387928,-71.096766,True,Gilman Square,Green Line,Green Line
+place-gover,42.359705,-71.059215,True,Government Center,Green Line,"Blue Line, Green Line"
+place-grigg,42.348545,-71.134949,False,Griggs Street,Green Line,Green Line
+place-grnst,42.310525,-71.107414,True,Green Street,Orange Line,Orange Line
+place-haecl,42.363021,-71.05829,True,Haymarket,Orange Line,"Green Line, Orange Line"
+place-harsq,42.373362,-71.118956,True,Harvard,Red Line,Red Line
+place-harvd,42.350243,-71.131355,False,Harvard Avenue,Green Line,Green Line
+place-hsmnl,42.328316,-71.110252,False,Heath Street,Green Line,Green Line
+place-hwsst,42.344906,-71.111145,False,Hawes Street,Green Line,Green Line
+place-hymnl,42.347888,-71.087903,True,Hynes Convention Center,Green Line,Green Line
+place-jaksn,42.323132,-71.099592,True,Jackson Square,Orange Line,Orange Line
+place-jfk,42.320685,-71.052391,True,JFK/UMass,Red Line,Red Line
+place-kencl,42.348949,-71.095169,True,Kenmore,Green Line,Green Line
+place-knncl,42.3624908,-71.0861765,True,Kendall/MIT,Red Line,Red Line
+place-kntst,42.344074,-71.114197,False,Kent Street,Green Line,Green Line
+place-lake,42.340081,-71.166769,False,Boston College,Green Line,Green Line
+place-lech,42.371572,-71.076584,True,Lechmere,Green Line,Green Line
+place-lngmd,42.33596,-71.100052,False,Longwood Medical Area,Green Line,Green Line
+place-longw,42.341702,-71.109956,False,Longwood,Green Line,Green Line
+place-masta,42.341512,-71.083423,True,Massachusetts Avenue,Orange Line,Orange Line
+place-matt,42.26762,-71.092486,True,Mattapan Line,Mattapan Line,Mattapan Line
+place-mdftf,42.407975,-71.117044,True,Medford/Tufts,Green Line,Green Line
+place-mfa,42.337711,-71.095512,False,Museum of Fine Arts,Green Line,Green Line
+place-mgngl,42.393682,-71.1063879,True,Magoun Square,Green Line,Green Line
+place-miltt,42.270349,-71.067266,False,Milton,Mattapan Line,Mattapan Line
+place-mispk,42.333195,-71.109756,False,Mission Park,Green Line,Green Line
+place-mlmnl,42.426632,-71.07411,True,Malden Center,Orange Line,Orange Line
+place-mvbcl,42.3691186,-71.0395296,True,Maverick,Blue Line,Blue Line
+place-newtn,42.322381,-71.205509,False,Newton Highlands,Green Line,Green Line
+place-newto,42.329443,-71.192414,False,Newton Centre,Green Line,Green Line
+place-north,42.365577,-71.06129,True,North Station,Orange Line,"Green Line, Orange Line"
+place-nqncy,42.275275,-71.029583,True,North Quincy,Red Line,Red Line
+place-nuniv,42.340401,-71.088806,False,Northeastern University,Green Line,Green Line
+place-ogmnl,42.43668,-71.071097,True,Oak Grove,Orange Line,Orange Line
+place-orhte,42.386867,-71.004736,True,Orient Heights,Blue Line,Blue Line
+place-pktrm,42.3563946,-71.0624242,True,Park Street,Green Line,"Green Line, Red Line"
+place-portr,42.3884,-71.119149,True,Porter,Red Line,Red Line
+place-prmnl,42.34557,-71.081696,True,Prudential,Green Line,Green Line
+place-qamnl,42.233391,-71.007153,True,Quincy Adams,Red Line,Red Line
+place-qnctr,42.251809,-71.005409,True,Quincy Center,Red Line,Red Line
+place-rbmnl,42.4078425,-70.9925332,True,Revere Beach,Blue Line,Blue Line
+place-rcmnl,42.331397,-71.095451,True,Roxbury Crossing,Orange Line,Orange Line
+place-river,42.337352,-71.252685,True,Riverside,Green Line,Green Line
+place-rsmnl,42.335088,-71.148758,False,Reservoir,Green Line,Green Line
+place-rugg,42.336377,-71.088961,True,Ruggles,Orange Line,Orange Line
+place-rvrwy,42.331684,-71.111931,False,Riverway,Green Line,Green Line
+place-sbmnl,42.317062,-71.104248,True,Stony Brook,Orange Line,Orange Line
+place-sdmnl,42.3905007,-70.9971226,True,Suffolk Downs,Blue Line,Blue Line
+place-shmnl,42.31129,-71.053331,True,Savin Hill,Red Line,Red Line
+place-smary,42.345974,-71.107353,False,Saint Mary's Street,Green Line,Green Line
+place-smmnl,42.2931258,-71.065738,True,Shawmut,Red Line,Red Line
+place-sougr,42.3396,-71.157661,False,South Street,Green Line,Green Line
+place-spmnl,42.366664,-71.067666,True,Science Park,Green Line,Green Line
+place-sstat,42.352271,-71.055242,True,South Station,Red Line,Red Line
+place-state,42.358978,-71.057598,True,State Street,Orange Line,"Blue Line, Orange Line"
+place-sthld,42.341614,-71.146202,False,Sutherland Road,Green Line,Green Line
+place-stpul,42.343327,-71.116997,False,Saint Paul Street,Green Line,Green Line
+place-sull,42.383975,-71.076994,True,Sullivan Square,Orange Line,Orange Line
+place-sumav,42.34111,-71.12561,False,Summit Avenue,Green Line,Green Line
+place-symcl,42.342687,-71.085056,True,Symphony,Green Line,Green Line
+place-tapst,42.338459,-71.138702,False,Tappan Street,Green Line,Green Line
+place-tumnl,42.349662,-71.063917,True,Tufts Medical Center,Orange Line,Orange Line
+place-unsqu,42.377359,-71.094761,True,Union Square,Green Line,Green Line
+place-valrd,42.268347,-71.081343,False,Valley Road,Mattapan Line,Mattapan Line
+place-waban,42.325845,-71.230609,False,Waban,Green Line,Green Line
+place-wascm,42.343864,-71.142853,False,Washington Street,Green Line,Green Line
+place-welln,42.40237,-71.077082,True,Wellington,Orange Line,Orange Line
+place-wimnl,42.3796403,-71.0228654,True,Wood Island,Blue Line,Blue Line
+place-wlsta,42.2665139,-71.0203369,True,Wollaston,Red Line,Red Line
+place-wondl,42.41342,-70.991648,True,Wonderland,Blue Line,Blue Line
+place-woodl,42.332902,-71.243362,False,Woodland,Green Line,Green Line
+place-wrnst,42.348343,-71.140457,False,Warren Street,Green Line,Green Line
+place-wtcst,42.34863,-71.04246,True,World Trade Center,Silver Line,Silver Line

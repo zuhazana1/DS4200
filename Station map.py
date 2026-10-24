@@ -4,8 +4,7 @@ Hover for details. Use the radio buttons to filter by rider type.
 
 Reads (from the Project folder):
   clean/trips_2025_sample.csv     made by build_dataset.py
-  MBTA_Gated_Station_Entries.csv  for the list of T stations and their lines
-  MBTA_GTFS/stops.txt             for T station locations
+  clean/t_stations.csv            made by build_dataset.py (all T stations)
   Boston and Cambridge neighborhood files, for the background map
 
 Run:  python station_map.py
@@ -41,7 +40,6 @@ nbhd = gpd.GeoDataFrame(nbhd, geometry="geometry", crs=4326)
 nbhd["geometry"] = nbhd.geometry.simplify(0.0001)   # smaller file, same look
 # Vega-Lite needs polygon outlines drawn clockwise, or the shapes fill the whole map
 nbhd["geometry"] = shapely.orient_polygons(nbhd.geometry.values, exterior_cw=True)
-minx, miny, maxx, maxy = nbhd.total_bounds
 
 # ---------- Bluebikes: trips per start station and rider type ----------
 trips = pd.read_csv("clean/trips_2025_sample.csv")
@@ -52,15 +50,18 @@ counts = (trips.groupby(station_cols + ["rider_type"]).size()
                .reset_index(name="trips"))
 
 # ---------- T stations ----------
-gated = pd.read_csv(find_file("*Gated_Station_Entries*.csv"),
-                    usecols=["stop_id", "station_name", "route_or_line"])
-t_lines = (gated.drop_duplicates(["stop_id", "route_or_line"])
-                .groupby(["stop_id", "station_name"])["route_or_line"]
-                .apply(lambda s: ", ".join(sorted(s))).reset_index(name="lines"))
-stops = pd.read_csv("MBTA_GTFS/stops.txt", usecols=["stop_id", "stop_lat", "stop_lon"])
-t = t_lines.merge(stops, on="stop_id")
-# keep only T stations inside the Boston/Cambridge area so the map doesn't stretch
-t = t[t["stop_lon"].between(minx, maxx) & t["stop_lat"].between(miny, maxy)]
+# every subway and light rail station, including street-level Green Line stops
+t = pd.read_csv("clean/t_stations.csv").rename(columns={"t_station": "station_name"})
+t["fare_gates"] = t["gated"].map({True: "Yes", False: "No (street-level stop)"})
+# Show T stations that are inside Boston/Cambridge, plus any station outside that is
+# the nearest stop for a bike station on the map (e.g. a Brookline stop next to the border).
+# A simple bounding box doesn't work: Boston includes the Harbor Islands, so the box
+# reaches down to Quincy.
+area = nbhd.to_crs(26986).union_all()
+t_points = gpd.GeoSeries(gpd.points_from_xy(t["stop_lon"], t["stop_lat"]), crs=4326).to_crs(26986)
+inside = t_points.within(area).values
+is_nearest = t["station_name"].isin(set(trips["nearest_t_station"])).values
+t = t[inside | is_nearest]
 
 # ---------- chart ----------
 rider = alt.param(name="rider", value="All",
@@ -99,7 +100,8 @@ t_stops = alt.Chart(t).mark_point(
     longitude="stop_lon:Q",
     latitude="stop_lat:Q",
     tooltip=[alt.Tooltip("station_name:N", title="T station"),
-             alt.Tooltip("lines:N", title="Line(s)")],
+             alt.Tooltip("lines:N", title="Line(s)"),
+             alt.Tooltip("fare_gates:N", title="Fare gates")],
 )
 
 chart = alt.layer(background, bikes, t_stops).project(type="mercator").properties(

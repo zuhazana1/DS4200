@@ -1,603 +1,603 @@
-station_id,station_name,lat,lng,neighborhood,city,nearest_t_stop_id,nearest_t_station,nearest_t_line,dist_to_t_m,near_transit
-A32000,Fan Pier,42.3533905070523,-71.04457139968872,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,214.0,Near
-A32001,Union Square - Brighton Ave at Cambridge St,42.353334,-71.137313,Allston,Boston,place-harsq,Harvard,Red Line,2690.0,Away
-A32002,Commonwealth Ave at Agganis Way,42.35169201885973,-71.11903488636017,Allston,Boston,place-cntsq,Central,Red Line,1980.0,Away
-A32003,B.U. Central - 725 Comm. Ave.,42.350406,-71.108279,Fenway,Boston,place-kencl,Kenmore,Green Line,1089.0,Away
-A32004,Longwood Ave at Binney St,42.338629,-71.1065,Longwood,Boston,place-rcmnl,Roxbury Crossing,Orange Line,1213.0,Away
-A32005,Brighton Mills - 370 Western Ave,42.3615457081725,-71.13776206970215,Brighton,Boston,place-harsq,Harvard,Red Line,2028.0,Away
-A32006,Soldiers Field Park - 111 Western Ave,42.36426344063853,-71.1182756971175,Allston,Boston,place-harsq,Harvard,Red Line,1013.0,Away
-A32008,Park Dr at Buswell St,42.347241,-71.105301,Fenway,Boston,place-kencl,Kenmore,Green Line,854.0,Away
-A32009,South End Library - Tremont St at W Newton St,42.341332,-71.076847,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,541.0,Away
-A32010,South Station - 700 Atlantic Ave,42.352175,-71.055547,Downtown,Boston,place-sstat,South Station,Red Line,27.0,Near
-A32011,Innovation Lab - 125 Western Ave at Batten Way,42.36371276003581,-71.12459778785706,Allston,Boston,place-harsq,Harvard,Red Line,1169.0,Away
-A32012,Packard's Corner - Commonwealth Ave at Brighton Ave,42.352261,-71.123831,Allston,Boston,place-cntsq,Central,Red Line,2207.0,Away
-A32013,Surface Rd at India St,42.358155,-71.052163,Downtown,Boston,place-aqucl,Aquarium,Blue Line,186.0,Near
-A32014,Stadium Rd at Western Ave,42.3630602068896,-71.1250450322948,Allston,Boston,place-harsq,Harvard,Red Line,1250.0,Away
-A32015,N. Harvard St at Harvard Way,42.36678297,-71.12517547,Allston,Boston,place-harsq,Harvard,Red Line,892.0,Away
-A32016,Gardner St at Alcorn St,42.35320766,-71.1233029,Allston,Boston,place-cntsq,Central,Red Line,2105.0,Away
-A32017,Commonwealth Ave at Griggs St,42.34922469338298,-71.13275302578586,Allston,Boston,place-harsq,Harvard,Red Line,2914.0,Away
-A32019,175 N Harvard St,42.364474565180565,-71.12840831285212,Allston,Boston,place-harsq,Harvard,Red Line,1257.0,Away
-A32020,Atlantic Ave at Beach St,42.35070811,-71.05658926,Leather District,Boston,place-sstat,South Station,Red Line,206.0,Near
-A32021,Nashua Street at Red Auerbach Way [Extension],42.3658584571002,-71.064157369577,West End,Boston,place-north,North Station,Orange Line,238.0,Near
-A32022,Edwards Playground - Main St at Eden St,42.378965,-71.068607,Charlestown,Boston,place-ccmnl,Community College,Orange Line,599.0,Away
-A32023,Bunker Hill Community College,42.37408991426522,-71.06905996799469,Charlestown,Boston,place-ccmnl,Community College,Orange Line,65.0,Near
-A32024,Staniford St at Merrimac St,42.36358,-71.063721,West End,Boston,place-bomnl,Bowdoin,Blue Line,282.0,Near
-A32025,Nashua Street at Red Auerbach Way,42.365673,-71.064263,West End,Boston,place-north,North Station,Orange Line,244.0,Near
-A32026,Purchase St at Pearl St,42.354659,-71.053181,Downtown,Boston,place-sstat,South Station,Red Line,315.0,Near
-A32028,Bennington St at Byron St,42.383532520117896,-71.01619094610214,East Boston,Boston,place-wimnl,Wood Island,Blue Line,698.0,Away
-A32029,Piers Park,42.36501119822304,-71.03528559207916,East Boston,Boston,place-mvbcl,Maverick,Blue Line,575.0,Away
-A32030,Maverick Square - Lewis Mall,42.36884408289835,-71.03977829217911,East Boston,Boston,place-mvbcl,Maverick,Blue Line,37.0,Near
-A32031,East Boston Neighborhood Health Center - 20 Maverick Square,42.369536,-71.039431,East Boston,Boston,place-mvbcl,Maverick,Blue Line,47.0,Near
-A32032,Bremen St at Marion St,42.37410622047334,-71.03276252757496,East Boston,Boston,place-aport,Airport,Blue Line,195.0,Near
-A32033,The Eddy - New St at Sumner St,42.370744,-71.044201,East Boston,Boston,place-mvbcl,Maverick,Blue Line,424.0,Away
-A32034,Glendon St at Condor St,42.38240377674137,-71.03024303913116,East Boston,Boston,place-wimnl,Wood Island,Blue Line,679.0,Away
-A32035,Orient Heights T Stop - Bennington St at Saratoga St,42.386781,-71.006098,East Boston,Boston,place-orhte,Orient Heights,Blue Line,112.0,Near
-A32036,Boston East - 126 Border St,42.373312125824704,-71.0410200806291,East Boston,Boston,place-mvbcl,Maverick,Blue Line,482.0,Away
-A32037,Washington St at Egremont Rd,42.34286835071959,-71.14127840855872,Brighton,Boston,place-kencl,Kenmore,Green Line,3849.0,Away
-A32039,Bennington St at Constitution Beach,42.385223935870535,-71.01063068965232,East Boston,Boston,place-orhte,Orient Heights,Blue Line,517.0,Away
-A32040,Honan Library,42.36027370454934,-71.12852452327388,Allston,Boston,place-harsq,Harvard,Red Line,1654.0,Away
-A32041,Central Square East Boston,42.37544912547037,-71.03918548682486,East Boston,Boston,place-mvbcl,Maverick,Blue Line,704.0,Away
-A32042,Surface Rd at Summer St,42.35294569782581,-71.05656400803126,Downtown,Boston,place-sstat,South Station,Red Line,132.0,Near
-A32044,Maverick St at Massport Path,42.36774122306014,-71.0333597474255,East Boston,Boston,place-mvbcl,Maverick,Blue Line,530.0,Away
-A32045,Boston Landing,42.35656092308941,-71.14167537549292,Brighton,Boston,place-harsq,Harvard,Red Line,2641.0,Away
-A32046,Canal St at Causeway St,42.365188,-71.060788,West End,Boston,place-north,North Station,Orange Line,60.0,Near
-A32047,Broad St at Central St,42.35849449039304,-71.05426469875965,Downtown,Boston,place-aqucl,Aquarium,Blue Line,258.0,Near
-A32048,Marion St at White St,42.38066930871317,-71.03907315999093,East Boston,Boston,place-aport,Airport,Blue Line,1008.0,Away
-A32049,Gove St at Orleans St,42.37057753242139,-71.03558540113227,East Boston,Boston,place-mvbcl,Maverick,Blue Line,362.0,Near
-A32050,Porzio Park,42.364119035231525,-71.02876782417297,East Boston,Boston,place-mvbcl,Maverick,Blue Line,1044.0,Away
-A32051,Day Sq,42.379295,-71.027733,East Boston,Boston,place-wimnl,Wood Island,Blue Line,402.0,Away
-A32052,Harvard Stadium: N. Harvard St at Soldiers Field Rd,42.368019,-71.1242,Allston,Boston,place-harsq,Harvard,Red Line,734.0,Away
-A32053,Valenti Way at Haverhill St,42.36473898691789,-71.05934903025626,West End,Boston,place-north,North Station,Orange Line,185.0,Near
-A32054,Addison St at Saratoga St,42.38518146513944,-71.0151367,East Boston,Boston,place-orhte,Orient Heights,Blue Line,875.0,Away
-A32055,Airport T Stop - Bremen St at Brooks St,42.375578,-71.031243,East Boston,Boston,place-aport,Airport,Blue Line,162.0,Near
-A32056,Riverway at Brookline Ave,42.33661005730433,-71.11004680395126,Longwood,Boston,place-rcmnl,Roxbury Crossing,Orange Line,1332.0,Away
-A32057,Lewis Mall Wharf,42.365678711213775,-71.04030132293701,East Boston,Boston,place-mvbcl,Maverick,Blue Line,388.0,Near
-A32058,Tremont St at Court St,42.359086,-71.05971,Downtown,Boston,place-gover,Government Center,Green Line,80.0,Near
-A32059,High St at Federal St,42.35352778,-71.05622222,Downtown,Boston,place-sstat,South Station,Red Line,161.0,Near
-A32061,Commercial St at Charter St,42.36817,-71.056847,North End,Boston,place-north,North Station,Orange Line,465.0,Away
-A32062,Western Ave at Everett St,42.363168,-71.134719,Allston,Boston,place-harsq,Harvard,Red Line,1721.0,Away
-A32063,Herter Park,42.365723613644,-71.13539289,Allston,Boston,place-harsq,Harvard,Red Line,1595.0,Away
-A32064,Western Ave at Leo Birmingham Pkwy,42.36155856,-71.14506038,Brighton,Boston,place-harsq,Harvard,Red Line,2514.0,Away
-A32065,Ashley St at Boardman,42.389155,-71.010409,East Boston,Boston,place-orhte,Orient Heights,Blue Line,531.0,Away
-A32066,Bennington St at Marion St,42.37590859,-71.03598452,East Boston,Boston,place-aport,Airport,Blue Line,494.0,Away
-A32067,Surface Rd at State Street,42.359743,-71.052602,Downtown,Boston,place-aqucl,Aquarium,Blue Line,78.0,Near
-A32068,Wood Island T Stop - Vienna St at Bennington St,42.380024,-71.024441,East Boston,Boston,place-wimnl,Wood Island,Blue Line,136.0,Near
-A32070,Ringer Park - Webley St at Armington St,42.35225564,-71.13718336,Allston,Boston,place-harsq,Harvard,Red Line,2784.0,Away
-B32000,Newbury St at Hereford St,42.348717,-71.085954,Back Bay,Boston,place-hymnl,Hynes Convention Center,Green Line,185.0,Near
-B32001,Fenway at Museum Rd,42.33919988,-71.09662527,Fenway,Boston,place-rugg,Ruggles,Orange Line,704.0,Away
-B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,42.33624444796878,-71.08798563480377,Roxbury,Boston,place-rugg,Ruggles,Orange Line,82.0,Near
-B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,42.3374174845973,-71.10286116600037,Longwood,Boston,place-rcmnl,Roxbury Crossing,Orange Line,905.0,Away
-B32004,Aquarium T Stop - 200 Atlantic Ave,42.359860234398624,-71.05160077295436,Downtown,Boston,place-aqucl,Aquarium,Blue Line,9.0,Near
-B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave,42.3436658245146,-71.08582377433777,Back Bay,Boston,place-symcl,Symphony,Green Line,126.0,Near
-B32006,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,42.34011512249236,-71.10061883926392,Longwood,Boston,place-rugg,Ruggles,Orange Line,1044.0,Away
-B32007,Seaport Square - Seaport Blvd at Northern Ave,42.35148193460858,-71.04436084628105,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,231.0,Near
-B32008,Boston City Hall - 28 State St,42.35892,-71.057629,Downtown,Boston,place-state,State Street,Orange Line,7.0,Near
-B32009,Fenway at Forsyth Way,42.34102248,-71.09210481,Fenway,Boston,place-rugg,Ruggles,Orange Line,578.0,Away
-B32010,Kenmore Square,42.348706,-71.097009,Fenway,Boston,place-kencl,Kenmore,Green Line,154.0,Near
-B32011,Kenmore Square - 660 Beacon St,42.34922,-71.095751,Fenway,Boston,place-kencl,Kenmore,Green Line,57.0,Near
-B32012,Northeastern University - North Parking Lot,42.341814,-71.090179,Fenway,Boston,place-symcl,Symphony,Green Line,432.0,Away
-B32013,Brigham Circle - Francis St at Huntington Ave,42.33462893055976,-71.10407917767589,Longwood,Boston,place-rcmnl,Roxbury Crossing,Orange Line,795.0,Away
-B32014,Seaport Hotel - Congress St at Seaport Ln,42.34881026188269,-71.04167744055303,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,67.0,Near
-B32015,Landmark Center - Brookline Ave at Park Dr,42.34369055719747,-71.10235286881107,Fenway,Boston,place-kencl,Kenmore,Green Line,831.0,Away
-B32016,Beacon St at Massachusetts Ave,42.35082680669095,-71.0898108780384,Fenway,Boston,place-hymnl,Hynes Convention Center,Green Line,362.0,Near
-B32017,Dudley Square - Bolling Building,42.329842993518085,-71.08386572459494,Roxbury,Boston,place-rugg,Ruggles,Orange Line,839.0,Away
-B32018,Boylston St at Massachusetts Ave,42.34740620525209,-71.08678414955648,Back Bay,Boston,place-hymnl,Hynes Convention Center,Green Line,106.0,Near
-B32019,New Edgerly Plaza - Westland Ave at Edgerly Rd,42.34367194,-71.08742,Fenway,Boston,place-symcl,Symphony,Green Line,223.0,Near
-B32020,Burlington Ave at Brookline Ave,42.345733,-71.100694,Fenway,Boston,place-kencl,Kenmore,Green Line,578.0,Away
-B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St,42.33758601097239,-71.09627097845076,Fenway,Boston,place-rugg,Ruggles,Orange Line,616.0,Away
-B32022,Roxbury YMCA - Warren St at MLK Blvd,42.31787329345602,-71.08243077993393,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,1527.0,Away
-B32023,MLK Blvd at Washington St,42.32143814183195,-71.09126061201096,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,710.0,Away
-B32024,Pilgrim Rd at Brookline Ave,42.3425995,-71.104903,Longwood,Boston,place-kencl,Kenmore,Green Line,1067.0,Away
-B32025,Uphams Corner T Stop - Magnolia St at Dudley St,42.318697341722434,-71.0697814822197,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,1447.0,Away
-B32026,Washington St at Melnea Cass Blvd,42.332817,-71.081198,Roxbury,Boston,place-rugg,Ruggles,Orange Line,751.0,Away
-B32027,NCAAA - Walnut Ave at Crawford St,42.316902,-71.091946,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,935.0,Away
-B32028,Grove Hall Library - 41 Geneva Ave,42.30791,-71.080952,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,1809.0,Away
-B32029,Columbia Rd at Ceylon St,42.309572,-71.0729,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,1402.0,Away
-B32030,Walnut Ave at Warren St,42.324081,-71.083235,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,1292.0,Away
-B32031,Bowdoin St at Quincy St,42.30785224238503,-71.06512248516083,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,908.0,Away
-B32032,Government Center - Cambridge St at Court St,42.3598253979878,-71.05979576244862,Downtown,Boston,place-gover,Government Center,Green Line,50.0,Near
-B32033,Huntington Ave at Mass Art,42.336585554561154,-71.0988699646623,Longwood,Boston,place-rcmnl,Roxbury Crossing,Orange Line,642.0,Away
-B32034,Boylston St at Jersey St,42.344650628878306,-71.09732501226972,Fenway,Boston,place-kencl,Kenmore,Green Line,510.0,Away
-B32035,Cleveland Circle,42.335543083570826,-71.15061519672052,Brighton,Boston,place-sbmnl,Stony Brook,Orange Line,4330.0,Away
-B32036,One Brigham Circle,42.33392270136997,-71.10446508982932,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,792.0,Away
-B32037,Deerfield St at Commonwealth Ave,42.34924376955301,-71.09728209692548,Fenway,Boston,place-kencl,Kenmore,Green Line,177.0,Near
-B32038,Chestnut Hill Ave at Ledgemere Rd,42.343706,-71.153257,Brighton,Boston,place-harsq,Harvard,Red Line,4338.0,Away
-B32039,Huntington Ave at Colburn St,42.33268137,-71.11083321,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,1272.0,Away
-B32040,Ipswich St at Van Ness St,42.3458089,-71.09548545,Fenway,Boston,place-kencl,Kenmore,Green Line,350.0,Near
-B32041,Chestnut Hill Ave at Winship St ,42.34560832,-71.15276024,Brighton,Boston,place-harsq,Harvard,Red Line,4152.0,Away
-B32043,Reservoir Rd at Beacon St,42.331459,-71.157672,Brighton,Boston,place-sbmnl,Stony Brook,Orange Line,4675.0,Away
-B32055,Bartlett St at John Elliot Sq,42.3294633,-71.0901582,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,485.0,Away
-B32056,Tremont St at Hamilton Pl,42.35668334969929,-71.06166645884514,Downtown,Boston,place-pktrm,Park Street,Green Line,70.0,Near
-B32057,Blue Hill Ave at Southwood St,42.31786020589987,-71.07798628527235,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,1871.0,Away
-B32058,Lansdowne T Stop,42.34734473177431,-71.1001680795016,Fenway,Boston,place-kencl,Kenmore,Green Line,448.0,Away
-B32059,Whittier St Health Center,42.332862884862635,-71.09218861916816,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,314.0,Near
-B32060,700 Commonwealth Ave.,42.349856,-71.103825,Fenway,Boston,place-kencl,Kenmore,Green Line,718.0,Away
-B32061,One Beacon St,42.358477644348106,-71.06135129928589,Downtown,Boston,place-gover,Government Center,Green Line,222.0,Near
-B32062,Forsyth St at Huntington Ave,42.34002048,-71.09068836,Fenway,Boston,place-rugg,Ruggles,Orange Line,429.0,Away
-B32063,St. Alphonsus St at Tremont St,42.33329254719182,-71.10124647617339,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,521.0,Away
-B32064,Flat 9 at Whittier,42.33420351352245,-71.08767616843123,Roxbury,Boston,place-rugg,Ruggles,Orange Line,264.0,Near
-B32065,Massachusetts Ave at Boylston St.,42.34752,-71.088012,Fenway,Boston,place-hymnl,Hynes Convention Center,Green Line,42.0,Near
-B32066,Commonwealth Ave at Granby St,42.349856,-71.103825,Fenway,Boston,place-kencl,Kenmore,Green Line,718.0,Away
-B32067,Commonwealth Ave at Blandford Mall,42.349,-71.10047179,Fenway,Boston,place-kencl,Kenmore,Green Line,436.0,Away
-B32068,Park Street T Stop - Tremont St at Park St,42.3566271,-71.062457,Beacon Hill,Boston,place-pktrm,Park Street,Green Line,26.0,Near
-B32069,Huntington Ave at St. Alphonsus St,42.33611341,-71.09921672,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,609.0,Away
-B32070,Smith St at Parker St,42.33290175,-71.09683344,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,202.0,Near
-B32071,St Alphonsus St at Horadan Way,42.33506481,-71.0998929,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,547.0,Away
-B32092,Congress St at Boston Wharf Rd,42.34951487,-71.046713,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,327.0,Near
-BCBS01,BCBS Hingham,42.16722555541654,-70.90555783370291,,,place-brntn,Braintree,Red Line,9079.0,Away
-C23015,Pope John Paul II Park - Neponset Trail at Hallet St,42.279774,-71.046085,Dorchester,Boston,place-nqncy,North Quincy,Red Line,1447.0,Away
-C23045,Morton St T,42.280725142920296,-71.08617242434775,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,1547.0,Away
-C23109,Cedar Grove T Stop,42.27960759693163,-71.06022119527552,Dorchester,Boston,place-asmnl,Ashmont,Red Line,620.0,Away
-C32000,Tremont St at E Berkeley St,42.345392,-71.069616,South End,Boston,place-bbsta,Back Bay,Orange Line,547.0,Away
-C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St,42.331184,-71.095171,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,33.0,Near
-C32002,Boston Medical Center - E Concord St at Harrison Ave,42.33639915372498,-71.07306711393903,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,1024.0,Away
-C32003,Back Bay T Stop - Dartmouth St at Stuart St,42.34807412317439,-71.07657015323639,Back Bay,Boston,place-bbsta,Back Bay,Orange Line,106.0,Near
-C32004,Massachusetts Ave at Columbus Ave,42.340835,-71.0816197,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,166.0,Near
-C32005,Washington St at Lenox St,42.3350989929096,-71.07903778553009,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,799.0,Away
-C32006,Washington St at Rutland St,42.338514601785995,-71.07404083013535,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,840.0,Away
-C32007,Prudential Center - 101 Huntington Ave,42.34652003998412,-71.08065776545118,Back Bay,Boston,place-prmnl,Prudential,Green Line,136.0,Near
-C32008,Boylston St at Fairfield St,42.348803822833936,-71.08236908912659,Back Bay,Boston,place-prmnl,Prudential,Green Line,364.0,Near
-C32009,Dorchester Ave at Gillette Park,42.34404051001635,-71.05737626552582,South Boston,Boston,place-brdwy,Broadway,Red Line,161.0,Near
-C32010,Congress St at Sleeper St,42.351004495946704,-71.04930013418198,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,258.0,Near
-C32011,Harbor St at Channel St,42.34514378,-71.03645329,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,628.0,Away
-C32012,Andrew T Stop - Dorchester Ave at Dexter St,42.3313327561103,-71.057084869615,South Boston,Boston,place-andrw,Andrew,Red Line,139.0,Near
-C32013,JFK/UMass T Stop,42.32033973515723,-71.05118036270142,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,107.0,Near
-C32014,University of Massachusetts Boston - Campus Center,42.31218918475612,-71.03648586203235,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,1389.0,Away
-C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,42.325333,-71.075354,Roxbury,Boston,place-andrw,Andrew,Red Line,1551.0,Away
-C32016,W Broadway at Dorchester St,42.335958979433094,-71.04622899561036,South Boston,Boston,place-andrw,Andrew,Red Line,1140.0,Away
-C32017,South Boston Library - 646 E Broadway,42.335741,-71.03877,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,1465.0,Away
-C32018,E Cottage St at Columbia Rd,42.320561,-71.06198,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,788.0,Away
-C32019,Uphams Corner,42.31727474327453,-71.06537003967787,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,1132.0,Away
-C32020,ID Building East,42.344827,-71.028664,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,1210.0,Away
-C32021,ID Building West,42.344796,-71.031614,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,988.0,Away
-C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,42.326599,-71.066498,South Boston,Boston,place-andrw,Andrew,Red Line,827.0,Away
-C32023,Murphy Skating Rink - 1880 Day Blvd,42.336448,-71.023739,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,2050.0,Away
-C32024,State Street at Channel Center,42.344137,-71.052608,South Boston Waterfront,Boston,place-brdwy,Broadway,Red Line,396.0,Near
-C32025,Ink Block - Harrison Ave at Herald St,42.345901,-71.063187,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,422.0,Away
-C32026,Au Bon Pain Way at Fid Kennedy Ave,42.3461009,-71.0291997,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,1125.0,Away
-C32027,Franklin Park - Seaver St at Humboldt Ave,42.309796,-71.092225,Roxbury,Boston,place-grnst,Green Street,Orange Line,1252.0,Away
-C32028,The Lawn on D,42.344792,-71.044024,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,446.0,Away
-C32029,W Broadway at D St,42.3391085,-71.0514432,South Boston,Boston,place-brdwy,Broadway,Red Line,599.0,Away
-C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,42.303469,-71.085347,Roxbury,Boston,place-grnst,Green Street,Orange Line,1977.0,Away
-C32031,Ryan Playground - Dorchester Ave at Harbor View St,42.317642,-71.056664,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,488.0,Away
-C32032,Congress St at Northern Ave,42.3481,-71.03764,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,400.0,Near
-C32033,Savin Hill T Stop - S Sydney St at Bay St,42.3106,-71.0539,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,90.0,Near
-C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,42.351586001198456,-71.04569256305693,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,135.0,Near
-C32035,Troy Boston,42.343749,-71.062256,South End,Boston,place-brdwy,Broadway,Red Line,452.0,Away
-C32036,Seaport Blvd at Sleeper St,42.35317809186252,-71.04817356923377,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,136.0,Near
-C32037,Four Corners - 157 Washington St,42.304127927390155,-71.07929527759552,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,1518.0,Away
-C32038,Washington St at Talbot Ave,42.290333,-71.071806,Dorchester,Boston,place-smmnl,Shawmut,Red Line,588.0,Away
-C32039,Park St at Norwell St,42.29442578670662,-71.07821760713703,Dorchester,Boston,place-smmnl,Shawmut,Red Line,1037.0,Away
-C32040,Gallivan Blvd at Adams St,42.28297567840305,-71.05466698296368,Dorchester,Boston,place-asmnl,Ashmont,Red Line,769.0,Away
-C32041,Fields Corner T Stop,42.299633488420625,-71.06068975823291,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,95.0,Near
-C32042,Washington St at Bowdoin St,42.29916497936589,-71.07345871645519,Dorchester,Boston,place-smmnl,Shawmut,Red Line,924.0,Away
-C32043,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,Dorchester,Boston,place-smmnl,Shawmut,Red Line,1765.0,Away
-C32044,Blue Hill Ave at Almont St,42.27462067181224,-71.09372552493369,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,785.0,Away
-C32045,Mattapan T Stop,42.267902,-71.093641,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,100.0,Near
-C32046,Roslindale Village - Washington St,42.28630716010807,-71.12820532182013,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1985.0,Away
-C32047,Roslindale Village - South St,42.287072,-71.127754,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1895.0,Away
-C32048,Archdale Rd at Washington St,42.29266592872725,-71.12119538714069,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1075.0,Away
-C32049,Thetford Ave at Norfolk St,42.286212948246096,-71.07942931372236,Dorchester,Boston,place-asmnl,Ashmont,Red Line,1301.0,Away
-C32050,Mattapan Library,42.2773889,-71.09325,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,1088.0,Away
-C32051,Farragut Rd at E. 6th St,42.3334,-71.02495,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,2222.0,Away
-C32052,Columbia Rd at Tierney Community Center,42.33023070528729,-71.05060093123029,South Boston,Boston,place-andrw,Andrew,Red Line,580.0,Away
-C32053,Broadway T Stop,42.343048583900966,-71.05803430091328,South Boston,Boston,place-brdwy,Broadway,Red Line,100.0,Near
-C32054,Shawmut Ave at Herald St,42.346647,-71.066049,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,378.0,Near
-C32055,Codman Square Library,42.2873611,-71.071111,Dorchester,Boston,place-asmnl,Ashmont,Red Line,681.0,Away
-C32056,Tremont St at Northampton St,42.338431795290944,-71.08169049924982,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,371.0,Near
-C32057,Harrison Ave at Mullins Way,42.34521562115022,-71.0638403149278,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,494.0,Away
-C32059,Belgrade Ave at Walworth St,42.28634589486312,-71.13672129828046,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,2462.0,Away
-C32060,Tremont St at W. Dedham St,42.34254913737952,-71.07421449387857,South End,Boston,place-bbsta,Back Bay,Orange Line,548.0,Away
-C32061,Albany St at E. Brookline St,42.33664795427071,-71.0689445958451,South End,Boston,place-andrw,Andrew,Red Line,1176.0,Away
-C32062,Ashmont T Stop,42.2856944,-71.0641389,Dorchester,Boston,place-asmnl,Ashmont,Red Line,134.0,Near
-C32063,Mass Ave T Station,42.34135615767354,-71.08336953450817,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,18.0,Near
-C32064,Sydney St at Carson St,42.32039374304257,-71.05355408051764,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,101.0,Near
-C32065,Adams St at Mallet St.,42.290891,-71.056746,Dorchester,Boston,place-smmnl,Shawmut,Red Line,780.0,Away
-C32066,Dorchester Ave at King St,42.291718,-71.062571,Dorchester,Boston,place-smmnl,Shawmut,Red Line,304.0,Near
-C32067,Washington St at Peters Park,42.342958,-71.067052,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,789.0,Away
-C32068,Melnea Cass Blvd at Hampden St,42.333586070395285,-71.075188,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,1111.0,Away
-C32069,Damrell St at Old Colony,42.3324824,-71.0542411,South Boston,Boston,place-andrw,Andrew,Red Line,382.0,Near
-C32070,300 Summer St,42.349784,-71.048935,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,342.0,Near
-C32071,Northern Ave at Haul Rd,42.347181,-71.035796,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,571.0,Away
-C32072,Washington St at Northampton St,42.33625888,-71.07756446,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,757.0,Away
-C32073,Walk Hill St at American Legion,42.28801503,-71.10730608,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1514.0,Away
-C32074,Harambee Park - Westview St at Blue Hill Ave,42.2912605,-71.088675,Dorchester,Boston,place-smmnl,Shawmut,Red Line,1898.0,Away
-C32075,Huntington Ave at Exeter St,42.34785628,-71.078951,Back Bay,Boston,place-coecl,Copley,Green Line,266.0,Near
-C32076,Warren Ave at Dartmouth St,42.3443104650768,-71.0740339266782,South End,Boston,place-bbsta,Back Bay,Orange Line,366.0,Near
-C32077,Columbus Ave at W. Canton St,42.34474224772802,-71.07648162175792,South End,Boston,place-bbsta,Back Bay,Orange Line,297.0,Near
-C32078,Northbourne Rd at Hyde Park Ave,42.29118034790426,-71.117736660035,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,1105.0,Away
-C32079,American Legion Hwy at Cummins Hwy,42.278811581565975,-71.11687703062671,Roslindale,Boston,place-matt,Mattapan Line,Mattapan Line,2361.0,Away
-C32080,Mt. Hope St at Hyde Park Ave,42.28484472443536,-71.11874517062459,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1808.0,Away
-C32081,Washington St at Denton Terr,42.280728147169015,-71.13423757273267,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,2779.0,Away
-C32082,Bike Town at Moakley Park,42.32586,-71.049142,South Boston,Boston,place-jfk,JFK/UMass,Red Line,634.0,Away
-C32083,Washington St at Walsh Playground,42.277194696397906,-71.06955613950048,Mattapan,Boston,place-asmnl,Ashmont,Red Line,943.0,Away
-C32084,Washington St at Fuller St,42.281986277339136,-71.07147924620222,Dorchester,Boston,place-asmnl,Ashmont,Red Line,693.0,Away
-C32085,Centre St at W. Roxbury Post Office,42.286331991127746,-71.15344755369732,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,3621.0,Away
-C32086,Centre St at Parkway YMCA,42.28277901074054,-71.15728851416861,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,4085.0,Away
-C32087,Spring St at Powell St,42.277484442008216,-71.16341467955863,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,4820.0,Away
-C32088,Central Ave at River St,42.27094707029229,-71.07337901405117,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,1615.0,Away
-C32089,Hyde Park Ave at Walk Hill St,42.29606704649873,-71.11601199963843,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,544.0,Away
-C32090,Geiger Gibson Community Health Center,42.31886468217537,-71.04536797860419,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,612.0,Away
-C32091,645 Summer St,42.341780891371904,-71.03987016504107,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,791.0,Away
-C32092,Blue Hill Ave at Havelock St,42.286012,-71.090986,Dorchester,Boston,place-matt,Mattapan Line,Mattapan Line,2049.0,Away
-C32093,Harrison Ave at E. Dedham St,42.339194,-71.06975,South End,Boston,place-bbsta,Back Bay,Orange Line,1031.0,Away
-C32094,2 Hummingbird Lane at Olmsted Green,42.28887,-71.095003,Mattapan,Boston,place-forhl,Forest Hills,Orange Line,2040.0,Away
-C32095,Bellevue T Stop,42.28593,-71.147221,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,3193.0,Away
-C32096,Knoll St at Centre St,42.29376656473529,-71.1365658044815,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,2015.0,Away
-C32099,Circuit Drive at American Legion Hwy,42.29704126420948,-71.09171926975249,Roxbury,Boston,place-forhl,Forest Hills,Orange Line,1873.0,Away
-C32100,Hyde Park Ave at Arlington St,42.26286746177123,-71.12163126468657,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,2456.0,Away
-C32101,American Legion Hwy at Hyde Park Ave,42.27265394101898,-71.119903922081,Roslindale,Boston,place-matt,Mattapan Line,Mattapan Line,2324.0,Away
-C32102,Walnut Ave at School St,42.31242399029812,-71.09616905450821,Roxbury,Boston,place-sbmnl,Stony Brook,Orange Line,841.0,Away
-C32103,Morton St at Gallivan Blvd,42.278747,-71.080286,Mattapan,Boston,place-asmnl,Ashmont,Red Line,1502.0,Away
-C32104,Cleary Sq,42.2556,-71.12444,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,2950.0,Away
-C32105,606 American Legion Hwy at Canterbury St,42.28578,-71.109725,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,1696.0,Away
-C32106,555 Metropolitan Ave,42.2681,-71.11924,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,2202.0,Away
-C32107,Pier 4 Blvd at Autumn Ln,42.3502102,-71.0446705,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,253.0,Near
-C32108,Beach St at Freeport St,42.303674088927075,-71.05425953865051,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,728.0,Away
-C32109,Centre St at Allandale St,42.300806,-71.127436,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,1110.0,Away
-C32110,Talbot Ave T Station,42.29225148276875,-71.07797205453608,Dorchester,Boston,place-smmnl,Shawmut,Red Line,1011.0,Away
-C32111,Four Corners/Geneva T Stop,42.30321534982497,-71.07820987712329,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,1404.0,Away
-C32112,Meaney Playground - Pleasant St at E Cottage St,42.319384,-71.058291,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,506.0,Away
-C32113,Hancock St at Pleasant St,42.30981924861789,-71.06019938382815,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,588.0,Away
-C32114,780 Morrissey Blvd,42.295305,-71.047186,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,1305.0,Away
-C32115,Washington St at W Dedham St,42.34033571273476,-71.07179929523453,South End,Boston,place-bbsta,Back Bay,Orange Line,844.0,Away
-C32116,Dorchester Ave at Savin Hill Ave,42.312398,-71.05743,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,359.0,Near
-C32117,135 Morrissey Blvd,42.31556927,-71.04841571,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,624.0,Away
-C32118,Melnea Cass Blvd at Hampden St,42.330976,-71.075478,Roxbury,Boston,place-rugg,Ruggles,Orange Line,1261.0,Away
-D32000,Cambridge St at Joy St,42.36125721646537,-71.06528744101524,West End,Boston,place-bomnl,Bowdoin,Blue Line,267.0,Near
-D32001,New Balance - 20 Guest St,42.35732921867706,-71.14673539996147,Brighton,Boston,place-harsq,Harvard,Red Line,2896.0,Away
-D32002,Washington St at Waltham St,42.34157471873747,-71.06890439987183,South End,Boston,place-bbsta,Back Bay,Orange Line,853.0,Away
-D32003,Faneuil St at Bothwell Rd,42.35334878,-71.159358,Brighton,Boston,place-harsq,Harvard,Red Line,3996.0,Away
-D32004,Arch St at Franklin St,42.35533501941256,-71.0582291708306,Downtown,Boston,place-dwnxg,Downtown Crossing,Red Line,165.0,Near
-D32005,Copley Square - Dartmouth St at Boylston St,42.34992828230057,-71.07739206866427,Back Bay,Boston,place-coecl,Copley,Green Line,7.0,Near
-D32006,Lewis Wharf at Atlantic Ave,42.363871,-71.050877,North End,Boston,place-aqucl,Aquarium,Blue Line,459.0,Away
-D32007,Boylston St at Arlington St,42.352095,-71.07022,Beacon Hill,Boston,place-armnl,Arlington,Green Line,59.0,Near
-D32008,Rowes Wharf at Atlantic Ave,42.357143,-71.050699,Downtown,Boston,place-aqucl,Aquarium,Blue Line,304.0,Near
-D32009,Congress St at Boston City Hall,42.36041774637169,-71.05752243543975,Downtown,Boston,place-gover,Government Center,Green Line,160.0,Near
-D32010,Cross St at Hanover St,42.362811,-71.056067,North End,Boston,place-haecl,Haymarket,Orange Line,184.0,Near
-D32011,Stuart St at Charles St,42.351146,-71.066289,Downtown,Boston,place-boyls,Boylston,Green Line,251.0,Near
-D32012,Post Office Square,42.35585435522005,-71.05459745998814,Downtown,Boston,place-sstat,South Station,Red Line,402.0,Away
-D32013,Boylston St at Berkeley St,42.3511419825475,-71.07329249382019,Back Bay,Boston,place-armnl,Arlington,Green Line,215.0,Near
-D32014,Tremont St at West St,42.354979,-71.063348,Downtown,Boston,place-pktrm,Park Street,Green Line,175.0,Near
-D32015,Chinatown Gate Plaza,42.351356,-71.059367,Chinatown,Boston,place-chncl,Chinatown,Orange Line,308.0,Near
-D32016,Charles Circle - Charles St at Cambridge St,42.36079296858265,-71.07118962337152,Beacon Hill,Boston,place-chmnl,Charles/MGH,Red Line,62.0,Near
-D32017,Mugar Way at Beacon St,42.35553628489709,-71.07286870479584,Beacon Hill,Boston,place-armnl,Arlington,Green Line,436.0,Away
-D32018,Boston Convention and Exhibition Center - Summer St at West Side Dr,42.347763454147454,-71.0453599691391,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,257.0,Near
-D32019,Chinatown T Stop,42.352409,-71.062679,Downtown,Boston,place-chncl,Chinatown,Orange Line,16.0,Near
-D32020,Main St at Austin St,42.375603,-71.064608,Charlestown,Boston,place-ccmnl,Community College,Orange Line,461.0,Away
-D32021,Warren St at Chelsea St,42.371848,-71.060292,Charlestown,Boston,place-north,North Station,Orange Line,702.0,Away
-D32022,West End Park,42.36590788445084,-71.06446668505669,West End,Boston,place-north,North Station,Orange Line,264.0,Near
-D32023,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,42.378338,-71.048927,Charlestown,Boston,place-mvbcl,Maverick,Blue Line,1283.0,Away
-D32024,Beacon St at Charles St,42.356052,-71.069849,Beacon Hill,Boston,place-armnl,Arlington,Green Line,469.0,Away
-D32025,Charles St S at Stuart,42.35077778,-71.06669444,Downtown,Boston,place-tumnl,Tufts Medical Center,Orange Line,260.0,Near
-D32026,Hayes Square - Vine St at Moulton St,42.377022,-71.056605,Charlestown,Boston,place-ccmnl,Community College,Orange Line,1127.0,Away
-D32027,Boston Public Market - Surface Rd at Sudbury St,42.362561,-71.057489,Downtown,Boston,place-haecl,Haymarket,Orange Line,83.0,Near
-D32028,Brighton Center - Washington St at Cambridge St,42.34894857235593,-71.15027189254761,Brighton,Boston,place-harsq,Harvard,Red Line,3740.0,Away
-D32029,Washington St at Brock St,42.3489528466951,-71.16031676530838,Brighton,Boston,place-harsq,Harvard,Red Line,4349.0,Away
-D32030,Washington St at Temple Pl,42.35496799,-71.06097685,Downtown,Boston,place-dwnxg,Downtown Crossing,Red Line,87.0,Near
-D32031,Oak Square - 615 Washington St,42.35057,-71.166491,Brighton,Boston,place-harsq,Harvard,Red Line,4656.0,Away
-D32032,Silber Way,42.34949599514002,-71.10057592391968,Fenway,Boston,place-kencl,Kenmore,Green Line,448.0,Away
-D32033,Commonwealth Ave at Chiswick Rd,42.34024644768889,-71.15168806174552,Brighton,Boston,place-harsq,Harvard,Red Line,4560.0,Away
-D32034,Commonwealth Ave at Kelton St,42.348358628170445,-71.13997217276847,Allston,Boston,place-harsq,Harvard,Red Line,3273.0,Away
-D32035,Harvard Ave at Brainerd Rd,42.34953016890375,-71.13022770741735,Allston,Boston,place-cntsq,Central,Red Line,2804.0,Away
-D32036,Main St at Baldwin St,42.380857,-71.070629,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,627.0,Away
-D32037,Medford St at Charlestown BCYF,42.380429474494896,-71.06055721676967,Charlestown,Boston,place-ccmnl,Community College,Orange Line,1057.0,Away
-D32038,Main St at Thompson Sq,42.374878467440965,-71.06383498767171,Charlestown,Boston,place-ccmnl,Community College,Orange Line,488.0,Away
-D32039,Charlestown Navy Yard,42.374124549426526,-71.05481199938367,Charlestown,Boston,place-north,North Station,Orange Line,1089.0,Away
-D32040,Williams St at Washington St,42.306539,-71.107669,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,444.0,Away
-D32041,Stony Brook T Stop,42.316966,-71.104374,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,15.0,Near
-D32042,Park Plaza at Charles St S.,42.351828068920675,-71.06781138111728,Downtown,Boston,place-armnl,Arlington,Green Line,253.0,Near
-D32043,Harrison Ave at Bennet St,42.34942609892521,-71.06209959843909,Chinatown,Boston,place-tumnl,Tufts Medical Center,Orange Line,152.0,Near
-D32044,Pearl St at Milk St,42.35677593,-71.05549774,Downtown,Boston,place-state,State Street,Orange Line,300.0,Near
-D32045,Dartmouth St at Newbury St,42.35096144421219,-71.07782810926437,Back Bay,Boston,place-coecl,Copley,Green Line,114.0,Near
-D32046,Boylston St at Exeter St,42.349589423682445,-71.0794677917329,Back Bay,Boston,place-coecl,Copley,Green Line,171.0,Near
-D32047,Clarendon St at Newbury St,42.35159662465317,-71.0756166279316,Back Bay,Boston,place-coecl,Copley,Green Line,235.0,Near
-D32048,Shawmut Ave at Oak St W,42.34854543411198,-71.06559185315746,Chinatown,Boston,place-tumnl,Tufts Medical Center,Orange Line,185.0,Near
-D32049,Stuart St at Berkeley St,42.34954403114251,-71.0724207387284,Back Bay,Boston,place-armnl,Arlington,Green Line,291.0,Near
-D32050,Blossom St at Charles St,42.36254,-71.067059,West End,Boston,place-chmnl,Charles/MGH,Red Line,331.0,Near
-D32051,Main St at Devens St,42.37401575,-71.06331387,Charlestown,Boston,place-ccmnl,Community College,Orange Line,513.0,Away
-D32052,Jamaica St at South St,42.3060456272408,-71.11570891001975,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,610.0,Away
-D32053,Sullivan Square,42.38445225635843,-71.07514854529654,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,161.0,Near
-D32054,The Overlook at St. Gabriel's,42.34679008347347,-71.14549813806661,Brighton,Boston,place-harsq,Harvard,Red Line,3672.0,Away
-D32055,Boylston St at Dartmouth St,42.350287,-71.077505,Back Bay,Boston,place-coecl,Copley,Green Line,35.0,Near
-D32057,Clinton St at North St,42.3607028354884,-71.05524927377701,Downtown,Boston,place-state,State Street,Orange Line,272.0,Near
-D32058,Brighton Ave at Linden St,42.3528376,-71.1296752,Allston,Boston,place-harsq,Harvard,Red Line,2446.0,Away
-D32059,Shawmut Ave at Lenox St,42.33584612997077,-71.08038157224655,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,678.0,Away
-D32060,Hood Park,42.38004534693313,-71.0730457305908,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,544.0,Away
-D32061,Lenox St at Kendall St,42.33759485033856,-71.08255058528357,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,441.0,Away
-D32062,Stuart St at Church St,42.35066667,-71.06830556,Downtown,Boston,place-armnl,Arlington,Green Line,253.0,Near
-D32063,Commonwealth Ave at Fidelis Way,42.345865,-71.141902,Brighton,Boston,place-harsq,Harvard,Red Line,3592.0,Away
-D32064,Main St at Salem St,42.3771,-71.06646,Charlestown,Boston,place-ccmnl,Community College,Orange Line,462.0,Away
-D32065,Constitution Rd at Chelsea St,42.3736,-71.05843,Charlestown,Boston,place-ccmnl,Community College,Orange Line,912.0,Away
-D32066,Medford St at McNulty Ct,42.37916,-71.0578627,Charlestown,Boston,place-ccmnl,Community College,Orange Line,1139.0,Away
-D32067,Chelsea St at Medford St,42.37857,-71.05298,Charlestown,Boston,place-ccmnl,Community College,Orange Line,1467.0,Away
-D320670,Commonwealth Ave at Chestnut Hill Dr,42.338415,-71.154428,Brighton,Boston,place-sbmnl,Stony Brook,Orange Line,4760.0,Away
-D32068,Cross St at Stillman St,42.36370786,-71.05749336,North End,Boston,place-haecl,Haymarket,Orange Line,101.0,Near
-D32069,Shawmut Ave at E Berkeley St,42.344607,-71.06702,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,617.0,Away
-D32070,Rutherford Ave at Bunker Hill Industrial Park,42.379352,-71.071371,Charlestown,Boston,place-ccmnl,Community College,Orange Line,655.0,Away
-D32071,Rutherford Ave at Main St,42.38385,-71.073114,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,319.0,Near
-D32072,Walbridge St at Commonwealth Ave,42.34775567,-71.1356758,Allston,Boston,place-harsq,Harvard,Red Line,3161.0,Away
-D32073,39 Brighton Ave,42.35299558,-71.126578,Allston,Boston,place-cntsq,Central,Red Line,2330.0,Away
-D32074,Market St at Mapleton St,42.35207673,-71.151571,Brighton,Boston,place-harsq,Harvard,Red Line,3575.0,Away
-D32075,Gardner St at Harvard Ave,42.353508,-71.131932,Allston,Boston,place-harsq,Harvard,Red Line,2452.0,Away
-D32076,Oak Square - Washington St at Bigelow St,42.35062298,-71.16744293,Brighton,Boston,place-harsq,Harvard,Red Line,4718.0,Away
-D32077,Washington St at Mina Way,42.35298248,-71.17322383,Brighton,Boston,place-harsq,Harvard,Red Line,5002.0,Away
-D32078,Franklin St at Cambridge St,42.35579247,-71.13286475,Allston,Boston,place-harsq,Harvard,Red Line,2263.0,Away
-D32079,Cambridge St at Warren St,42.350225,-71.146678,Allston,Boston,place-harsq,Harvard,Red Line,3436.0,Away
-D32080,Rugg Rd at Braintree St,42.35608219,-71.13538923,Allston,Boston,place-harsq,Harvard,Red Line,2348.0,Away
-D32081,Boylston T Stop,42.35250593,-71.06528293,Beacon Hill,Boston,place-boyls,Boylston,Green Line,81.0,Near
-E32001,Curtis Hall - South St at Centre St,42.309054,-71.11543,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,679.0,Away
-E32002,Jamaicaway at Perkins St,42.321251,-71.116483,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,1109.0,Away
-E32003,Hyde Square - Centre St at Perkins St,42.32176525723952,-71.10984160567114,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,696.0,Away
-E32004,Egleston Square - Atherton St at Washington St,42.315692,-71.098634,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,486.0,Away
-E32005,Green Street T Stop - Green St at Amory St,42.310579,-71.107341,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,8.0,Near
-E32006,Jackson Square T Stop,42.32293117195949,-71.10014140605927,Jamaica Plain,Boston,place-jaksn,Jackson Square,Orange Line,50.0,Near
-E32007,S Huntington Ave at Heath St,42.32760387040573,-71.11089169979095,Jamaica Plain,Boston,place-jaksn,Jackson Square,Orange Line,1054.0,Away
-E32008,Centre St at Seaverns Ave,42.31358,-71.11405,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,643.0,Away
-E32009,Shawmut T Stop,42.292917,-71.06575,Dorchester,Boston,place-smmnl,Shawmut,Red Line,23.0,Near
-E32010,Forest Hills,42.300923,-71.114249,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,34.0,Near
-E32011,The Dimock Center,42.3193094317828,-71.09639923859504,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,500.0,Away
-E32012,Martha Eliot Health Center,42.324173,-71.10196,Jamaica Plain,Boston,place-jaksn,Jackson Square,Orange Line,226.0,Near
-E32013,Hyde Park Library,42.2568376,-71.122509,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,2746.0,Away
-E32014,Ross Playground,42.2645666,-71.1145523,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,1847.0,Away
-E32015,Lincoln St at Empire St,42.357651,-71.128513,Allston,Boston,place-harsq,Harvard,Red Line,1915.0,Away
-E32016,Commonwealth Ave at Naples Rd,42.351911,-71.123798,Allston,Boston,place-cntsq,Central,Red Line,2231.0,Away
-E32017,Butler T Stop,42.272548,-71.062882,Dorchester,Boston,place-asmnl,Ashmont,Red Line,1333.0,Away
-E32018,Truman Parkway at Fairmount Ave,42.252287,-71.118358,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,2728.0,Away
-F32001,Main St at Brooks Park,42.411709,-71.110444,,,place-mdftf,Medford/Tufts,Green Line,683.0,Away
-F32002,Medford Sq - Riverside Ave at River St,42.417724,-71.108102,,,place-mdftf,Medford/Tufts,Green Line,1309.0,Away
-F32003,Tufts Sq - Main St at Medford St,42.401697,-71.106128,,,place-balsq,Ball Square,Green Line,448.0,Away
-F32004,Harris Park,42.41081837243052,-71.08152866385353,,,place-welln,Wellington,Orange Line,1008.0,Away
-F32005,Haines Square,42.423331368452885,-71.09124541293568,,,place-mlmnl,Malden Center,Orange Line,1454.0,Away
-F32006,Hormel Stadium,42.40721644126376,-71.09651505947113,,,place-balsq,Ball Square,Green Line,1442.0,Away
-F32007,West Medford Square (Bower St at Harvard Ave),42.420647,-71.133483,,,place-mdftf,Medford/Tufts,Green Line,1951.0,Away
-F32008,Logan Park,42.41800742890374,-71.0965722102992,,,place-mdftf,Medford/Tufts,Green Line,2017.0,Away
-F32009,Hickey Park,42.424981,-71.098973,,,place-mlmnl,Malden Center,Orange Line,2049.0,Away
-F32011,Carr Park,42.434365,-71.094755,,,place-mlmnl,Malden Center,Orange Line,1900.0,Away
-F32012,Steve Miller Dr at Winthrop St (Medford High),42.428086,-71.12636,,,place-mdftf,Medford/Tufts,Green Line,2363.0,Away
-F32013,Governors Ave at Lawrence Rd,42.425178,-71.110386,,,place-mdftf,Medford/Tufts,Green Line,1989.0,Away
-F32014,Winthrop Circle,42.421361,-71.117556,,,place-mdftf,Medford/Tufts,Green Line,1489.0,Away
-F32015,Mystic Valley Parkway at River Station,42.415091,-71.139177,,,place-mdftf,Medford/Tufts,Green Line,1982.0,Away
-F32016,Mystic Ave at Crescent St,42.41081,-71.106276,,,place-mdftf,Medford/Tufts,Green Line,939.0,Away
-G32001,Malden Center T Station,42.426541,-71.073179,,,place-mlmnl,Malden Center,Orange Line,77.0,Near
-G32002,Northern Strand at Main St,42.42386,-71.067793,,,place-mlmnl,Malden Center,Orange Line,603.0,Away
-G32003,Malden High School,42.426537658440544,-71.06393694877625,,,place-mlmnl,Malden Center,Orange Line,835.0,Away
-G32004,Northern Strand at Bike Kitchen ,42.42083422873447,-71.07216525162619,,,place-mlmnl,Malden Center,Orange Line,664.0,Away
-G32005,Kierstead Park ,42.4293383849641,-71.05191290060668,,,place-ogmnl,Oak Grove,Orange Line,1773.0,Away
-G32006,Maplewood Square,42.43359,-71.046279,,,place-ogmnl,Oak Grove,Orange Line,2066.0,Away
-H32001,Cary Square,42.398135645582464,-71.030709722545,,,place-wimnl,Wood Island,Blue Line,2155.0,Away
-H320010,615 Broadway,42.394541,-71.030828,,,place-wimnl,Wood Island,Blue Line,1781.0,Away
-H32002,Bellingham Square,42.3931961102951,-71.03344559669495,,,place-wimnl,Wood Island,Blue Line,1740.0,Away
-H32003,Chelsea Square,42.390226711033826,-71.03857017704286,,,place-wimnl,Wood Island,Blue Line,1746.0,Away
-H32005,Chelsea Station,42.39636527849676,-71.03987179230899,,,place-wimnl,Wood Island,Blue Line,2326.0,Away
-H32006,855 Broadway,42.398417726101584,-71.02390923402707,,,place-orhte,Orient Heights,Blue Line,2032.0,Away
-K32001,Coolidge Corner - Beacon St at Centre St,42.341598,-71.123338,,,place-kencl,Kenmore,Green Line,2455.0,Away
-K32002,Beacon St at Tappan St,42.33826680058037,-71.13894682028331,,,place-jaksn,Jackson Square,Orange Line,3647.0,Away
-K32003,Brookline Village - Station Street at MBTA,42.33274392304887,-71.11626680949485,,,place-rcmnl,Roxbury Crossing,Orange Line,1718.0,Away
-K32004,JFK Crossing at Harvard St. / Thorndike St.,42.346551241753566,-71.1283321143128,,,place-kencl,Kenmore,Green Line,2738.0,Away
-K32005,Brookline Town Hall,42.33376472623494,-71.12046446660315,,,place-rcmnl,Roxbury Crossing,Orange Line,2073.0,Away
-K32006,Commonwealth Ave At Babcock St,42.35154734791375,-71.12126246094704,,,place-cntsq,Central,Red Line,2112.0,Away
-K32007,St Mary's,42.346197076555455,-71.10728681087494,,,place-kencl,Kenmore,Green Line,1042.0,Away
-K32008,Tappan St at Brookline Hills MBTA,42.331370168043215,-71.1268836054569,,,place-jaksn,Jackson Square,Orange Line,2423.0,Away
-K32009,Cypress St at Clark Playground,42.32784317478686,-71.1253622174263,,,place-sbmnl,Stony Brook,Orange Line,2110.0,Away
-K32010,High St at Cypress St,42.32464510949409,-71.12135231494904,,,place-sbmnl,Stony Brook,Orange Line,1640.0,Away
-K32011,Washington Sq,42.33985827126298,-71.13421171095978,,,place-rcmnl,Roxbury Crossing,Orange Line,3322.0,Away
-K32012,Marion St at Harvard St,42.340122426966424,-71.12070563810447,,,place-rcmnl,Roxbury Crossing,Orange Line,2291.0,Away
-K32015,1200 Beacon St,42.34414898749529,-71.11467361450195,,,place-kencl,Kenmore,Green Line,1689.0,Away
-K32017,Harvard St and Stedman St,42.3443517550051,-71.12490355968475,,,place-kencl,Kenmore,Green Line,2497.0,Away
-L32001,Railroad Lot and Minuteman Bikeway,42.41606457115141,-71.15336636682059,,,place-alfcl,Alewife,Red Line,2459.0,Away
-L320013,Mass Ave at Alewife Greenway,42.401364806487635,-71.13655772883486,,,place-alfcl,Alewife,Red Line,728.0,Away
-L32002,Linwood St at Minuteman Bikeway,42.40935395518158,-71.14906518727366,,,place-alfcl,Alewife,Red Line,1634.0,Away
-L32003,Mass Ave at Grafton St,42.40726052447951,-71.14382132425817,,,place-alfcl,Alewife,Red Line,1288.0,Away
-L32004,Broadway at Grafton St,42.40994213011757,-71.14009319811885,,,place-alfcl,Alewife,Red Line,1572.0,Away
-L32005,Thorndike Field at Minuteman Bikeway,42.40016804853787,-71.14456963094199,,,place-alfcl,Alewife,Red Line,553.0,Away
-L32007,Swan Place at Minuteman Bikeway,42.414705,-71.152377,,,place-alfcl,Alewife,Red Line,2288.0,Away
-L32008,Lake St. at Minuteman Bikeway,42.4041703390082,-71.14690375265656,,,place-alfcl,Alewife,Red Line,1036.0,Away
-L32009,Mill St. at Minuteman Bikeway,42.4186027386165,-71.15753579744356,,,place-alfcl,Alewife,Red Line,2862.0,Away
-L32010,Medford St at Warren St,42.41649057463282,-71.14813429053619,,,place-alfcl,Alewife,Red Line,2365.0,Away
-M32002,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,Wellington-Harrington,Cambridge,place-knncl,Kendall/MIT,Red Line,618.0,Away
-M32003,One Broadway / Kendall Sq at Main St / 3rd St,42.36224178650923,-71.0831107199192,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,253.0,Near
-M32004,Kendall T,42.3624278429124,-71.08495473861694,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,101.0,Near
-M32005,MIT Stata Center at Vassar St / Main St,42.3621312344991,-71.09115600585936,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,411.0,Away
-M32006,MIT at Mass Ave / Amherst St,42.3581,-71.093198,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,756.0,Away
-M32007,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,489.0,Away
-M32009,Lafayette Square at Mass Ave / Main St / Columbia St,42.36346469304347,-71.10057324171066,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,348.0,Near
-M32011,Central Square at Mass Ave / Essex St,42.36507,-71.1031,The Port,Cambridge,place-cntsq,Central,Red Line,74.0,Near
-M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,Riverside,Cambridge,place-cntsq,Central,Red Line,174.0,Near
-M32013,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,647.0,Away
-M32014,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,42.366621,-71.114214,Riverside,Cambridge,place-harsq,Harvard,Red Line,845.0,Away
-M32015,Vassal Lane at Tobin VLUS,42.384233,-71.140329,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,1292.0,Away
-M32016,Harvard Kennedy School at Bennett St / Eliot St,42.3722168027866,-71.12188071012497,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,272.0,Near
-M32017,Harvard Square at Brattle St / Eliot St,42.373328798874056,-71.12098601080106,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,167.0,Near
-M32018,Harvard Square at Mass Ave/ Dunster,42.373268,-71.118579,Riverside,Cambridge,place-harsq,Harvard,Red Line,33.0,Near
-M32019,Cambridgeside Pl at Land Blvd,42.366929,-71.076512,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,516.0,Away
-M32020,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,Baldwin,Cambridge,place-harsq,Harvard,Red Line,633.0,Away
-M32021,Harvard University Gund Hall at Quincy St / Kirkland St,42.376369,-71.114025,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,525.0,Away
-M32022,Lower Cambridgeport at Magazine St / Riverside Rd,42.357218503176526,-71.1138716340065,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,1237.0,Away
-M32023,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,42.377945,-71.116865,Baldwin,Cambridge,place-harsq,Harvard,Red Line,538.0,Away
-M32024,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,42.380287,-71.125107,Neighborhood Nine,Cambridge,place-harsq,Harvard,Red Line,921.0,Away
-M32025,Linear Park - Mass. Ave. at Cameron Ave. ,42.397828,-71.130516,North Cambridge,Cambridge,place-davis,Davis,Red Line,725.0,Away
-M32026,359 Broadway - Broadway at Fayette Street,42.370803,-71.104412,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,593.0,Away
-M32027,Binney St / Sixth St,42.36608797388682,-71.08633603909765,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,400.0,Near
-M32028,359 Broadway ,42.370801,-71.104451,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,593.0,Away
-M32029,Porter Square Station,42.387995,-71.119084,Baldwin,Cambridge,place-portr,Porter,Red Line,45.0,Near
-M32030,Dana Park,42.36178043960605,-71.10809952020645,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,543.0,Away
-M32031,Danehy Park,42.388966,-71.132788,Neighborhood Nine,Cambridge,place-alfcl,Alewife,Red Line,1034.0,Away
-M32032,Kendall Street,42.363076,-71.082321,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,323.0,Near
-M32033,Alewife Station at Russell Field,42.396232033400906,-71.13978801815482,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,131.0,Near
-M32034,EF - North Point Park,42.369885,-71.069957,East Cambridge,Cambridge,place-spmnl,Science Park,Green Line,405.0,Away
-M32035,Rogers St & Land Blvd,42.366446738529454,-71.07654601335526,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,570.0,Away
-M32036,Rindge Avenue - O'Neill Library,42.392766,-71.129042,North Cambridge,Cambridge,place-davis,Davis,Red Line,740.0,Away
-M32037,Ames St at Main St,42.3625,-71.08822,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,168.0,Near
-M32038,Harvard University River Houses at DeWolfe St / Cowperthwaite St,42.369239074859216,-71.11687034368515,Riverside,Cambridge,place-harsq,Harvard,Red Line,489.0,Away
-M32039,Lesley University,42.38674802045056,-71.11901879310608,Baldwin,Cambridge,place-portr,Porter,Red Line,184.0,Near
-M32040,University Park,42.36264779118595,-71.10006093978882,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,441.0,Away
-M32041,MIT Pacific St at Purrington St,42.35957320109044,-71.10129475593567,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,689.0,Away
-M32042,MIT Vassar St,42.355601213279265,-71.10394477844238,Area 2/MIT,Cambridge,place-kencl,Kenmore,Green Line,1033.0,Away
-M32043,Mt Auburn,42.374932,-71.135304,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,1354.0,Away
-M32044,Huron Ave At Vassal Lane,42.381650612901176,-71.13426981498378,West Cambridge,Cambridge,place-portr,Porter,Red Line,1451.0,Away
-M32045,Museum of Science,42.36769018024484,-71.07116281986237,East Cambridge,Cambridge,place-spmnl,Science Park,Green Line,309.0,Near
-M32046,Alewife MBTA at Steel Place,42.395588457167094,-71.14260613918304,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,112.0,Near
-M32047,Sidney Research Campus/Erie Street at Waverly,42.35775309465199,-71.10393404960632,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,860.0,Away
-M32048,Third at Binney,42.36544486137399,-71.08277142047882,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,431.0,Away
-M32049,Child Street at Brian P. Murphy Staircase,42.371976784679745,-71.07200495972165,East Cambridge,Cambridge,place-ccmnl,Community College,Orange Line,273.0,Near
-M32050,Verizon Innovation Hub 10 Ware Street,42.37250864997261,-71.11305356025696,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,494.0,Away
-M32051,Fresh Pond Reservation,42.38267827521855,-71.143478951426,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,1473.0,Away
-M32052,Cambridge Dept. of Public Works -147 Hampshire St.,42.37119727759414,-71.09759867191315,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,724.0,Away
-M32053,One Memorial Drive,42.36184554836038,-71.08200997856305,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,350.0,Near
-M32054,699 Mt Auburn St,42.37500235137831,-71.14871613699506,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,2395.0,Away
-M32055,Harvard St at Greene-Rose Heritage Park,42.36599432867437,-71.09522221614498,The Port,Cambridge,place-cntsq,Central,Red Line,707.0,Away
-M32056,Mass Ave at Hadley/Walden,42.39120971915856,-71.12260755160605,North Cambridge,Cambridge,place-portr,Porter,Red Line,422.0,Away
-M32057,Vassal Lane at Tobin/VLUS,42.38536765218425,-71.13775670528412,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,1199.0,Away
-M32058,84 Cambridgepark Dr,42.3936,-71.143941,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,330.0,Near
-M32059,Ames St at Broadway,42.3636929,-71.0875672,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,176.0,Near
-M32060,700 Huron Ave,42.380788172914286,-71.15412890911102,Strawberry Hill,Cambridge,place-alfcl,Alewife,Red Line,1977.0,Away
-M32061,Mass Ave at Albany St,42.36135837662249,-71.09670273977825,The Port,Cambridge,place-cntsq,Central,Red Line,742.0,Away
-M32062,Inman Square at Springfield St.,42.37426713524931,-71.10026478767395,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,568.0,Away
-M32063,Sennott Park Broadway at Norfolk Street,42.36860524248197,-71.09930185605663,The Port,Cambridge,place-cntsq,Central,Red Line,507.0,Away
-M32064,75 Binney St,42.36550728505653,-71.0801375997653,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,599.0,Away
-M32065,Kennedy-Longfellow School 158 Spring St,42.36955297756508,-71.08579014980933,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,786.0,Away
-M32066,Discovery Park - 30 Acorn Park Drive,42.39790817368333,-71.14797130814623,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,596.0,Away
-M32067,Berkshire Street at Cambridge Street,42.37207657915397,-71.08995433905875,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,708.0,Away
-M32068,Graham and Parks School – Linnaean St at Walker St,42.38294430172271,-71.12449831038248,Neighborhood Nine,Cambridge,place-portr,Porter,Red Line,749.0,Away
-M32069,Smith Pl at Wilson Rd,42.39239749145834,-71.15058331757609,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,854.0,Away
-M32070,MIT Carleton St at Amherst St,42.36054174140606,-71.08669817447662,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,221.0,Near
-M32071,MIT Hayward St at Amherst St,42.36085937353302,-71.08551858007559,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,189.0,Near
-M32072,Galileo Galilei Way at Main Street,42.363003781560096,-71.08974037706501,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,298.0,Near
-M32073,955 Mass Ave,42.36895180540729,-71.10998779535294,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,638.0,Away
-M32074,Concord Ave at Spinelli Place,42.390719,-71.1538877,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,1181.0,Away
-M32075,Danehy Park at New Street,42.389456,-71.139019,Neighborhood Nine,Cambridge,place-alfcl,Alewife,Red Line,733.0,Away
-M32076,Old Morse Park at Putnam Ave,42.35766247889882,-71.1084133386612,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,949.0,Away
-M32077,Cambridge Crossing at North First Street,42.371141,-71.076198,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,57.0,Near
-M32078,Galileo Galilei Way at Fulkerson St/Binney St,42.3664204,-71.0885418,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,478.0,Away
-M32079,Raymond Park at Walden St,42.38736953747185,-71.12761001482795,Neighborhood Nine,Cambridge,place-portr,Porter,Red Line,704.0,Away
-M32080,Main Street/Albany Street/Technology Square,42.3629016,-71.0915669,The Port,Cambridge,place-knncl,Kendall/MIT,Red Line,445.0,Away
-M32081,Gore Street at Lambert Street,42.373079797934935,-71.08634233665725,East Cambridge,Cambridge,place-esomr,East Somerville,Green Line,711.0,Away
-M32082,Broad Canal Way at Third Street,42.36304549626695,-71.08287078916874,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,279.0,Near
-M32083,John Ahern Field at Kennedy-Longfellow School,42.36903566594827,-71.08630959910442,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,728.0,Away
-M32084,87-101 Cambridgepark Drive,42.395221870310664,-71.14421904097979,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,250.0,Near
-M32085,Mass Ave/Lafayette Square,42.36356498989399,-71.10044184048091,The Port,Cambridge,place-cntsq,Central,Red Line,349.0,Near
-M32086,Morgan Ave at North First St,42.37197725963389,-71.07585847383234,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,75.0,Near
-M32087,Church St,42.37433925370521,-71.11966431146357,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,123.0,Near
-M32088,55 Wheeler Street,42.390821,-71.143946,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,598.0,Away
-M32089,Moore Youth Center,42.363539,-71.111698,Riverside,Cambridge,place-cntsq,Central,Red Line,684.0,Away
-M32090,O'Brien Highway at First Street,42.370982,-71.076638,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,66.0,Near
-M32091,325 Binney St.,42.36722,-71.08903,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,576.0,Away
-M32092,Elevate at One Leighton,42.369931,-71.073526,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,310.0,Near
-M32093,101 Smith Place,42.392568,-71.150761,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,858.0,Away
-M32094,40 Thorndike St,42.369061,-71.079999,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,396.0,Near
-M32095,Lechmere Canal Park,42.36984,-71.076079,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,197.0,Near
-M32096,Craigie St at Brattle St/Sparks St,42.377923377417865,-71.1300602747914,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,1044.0,Away
-N32000,Centre St at Washington St,42.35574334805774,-71.18641942508475,,,place-alfcl,Alewife,Red Line,5798.0,Away
-N32001,Washington St at Crafts St,42.35389024396587,-71.19943707257335,,,place-river,Riverside,Green Line,4747.0,Away
-N32002,Nonantum Library,42.36068455768156,-71.20146199598821,,,place-river,Riverside,Green Line,4945.0,Away
-N32003,Bacon St at Washington St,42.35711920909866,-71.1860453666327,,,place-alfcl,Alewife,Red Line,5661.0,Away
-N32005,West Newton,42.34960049864208,-71.2262749671936,,,place-river,Riverside,Green Line,2562.0,Away
-N32006,Watertown St at Albemarle Rd,42.354104081396585,-71.21382214128971,,,place-river,Riverside,Green Line,3697.0,Away
-N32008,Langley Lot,42.329607,-71.193701,,,place-river,Riverside,Green Line,4924.0,Away
-N32009,Boston College T,42.33987891612856,-71.16708934307098,,,place-harsq,Harvard,Red Line,5432.0,Away
-N32010,Newton Highlands T,42.322065656952944,-71.2063729763031,,,place-river,Riverside,Green Line,4169.0,Away
-N32011,California at Chapel,42.365148708129546,-71.20236039161682,,,place-river,Riverside,Green Line,5163.0,Away
-N32012,Beacon at Walnut,42.330062324402995,-71.20668411254883,,,place-river,Riverside,Green Line,3867.0,Away
-N32013,Newton Library,42.336203368830134,-71.207794547081,,,place-river,Riverside,Green Line,3692.0,Away
-N32014,Washington St at Walnut St,42.351458116963016,-71.20764970779419,,,place-river,Riverside,Green Line,4020.0,Away
-N32015,Auburndale,42.34805541493346,-71.2477594614029,,,place-river,Riverside,Green Line,1257.0,Away
-N32018,Centre St at Commonwealth Ave,42.3362358,-71.1934421,,,place-river,Riverside,Green Line,4871.0,Away
-R32001,Sumner St at Shirley Ave,42.408337058129746,-70.99804848432541,,,place-rbmnl,Revere Beach,Blue Line,456.0,Away
-R32002,Orr Sq (Shirley Ave),42.40715655698643,-70.99272429943085,,,place-rbmnl,Revere Beach,Blue Line,78.0,Near
-R32003,Beachmont Square at Suffolk Downs,42.3976083,-70.99307222,,,place-bmmnl,Beachmont,Blue Line,62.0,Near
-R32004,Northern Strand at Salem Street,42.441956,-71.01468,,,place-wondl,Wonderland,Blue Line,3693.0,Away
-R32006,Revere City Hall,42.40741,-71.0139,,,place-rbmnl,Revere Beach,Blue Line,1755.0,Away
-R32007,Revere Public Library,42.408088,-71.008942,,,place-rbmnl,Revere Beach,Blue Line,1347.0,Away
-R32008,Eliot Circle Revere Beach,42.402889,-70.989972,,,place-rbmnl,Revere Beach,Blue Line,590.0,Away
-R32009,Revere Beach - Markey Footbridge,42.414019,-70.989609,,,place-wondl,Wonderland,Blue Line,180.0,Near
-S32001,Somerville City Hall,42.386844,-71.09812,,,place-gilmn,Gilman Square,Green Line,164.0,Near
-S32002,Union Square - Somerville,42.37964789967527,-71.09540475672475,,,place-unsqu,Union Square,Green Line,260.0,Near
-S32003,Beacon St at Washington / Kirkland,42.37875351212593,-71.10707223415375,,,place-unsqu,Union Square,Green Line,1023.0,Away
-S32004,Conway Park - Somerville Avenue,42.383638948222654,-71.10853672027588,,,place-portr,Porter,Red Line,1020.0,Away
-S32005,Wilson Square,42.38567578752914,-71.11412136298895,,,place-portr,Porter,Red Line,512.0,Away
-S32006,Davis Square,42.396969,-71.123024,,,place-davis,Davis,Red Line,102.0,Near
-S32007,Ball Sq,42.39936816059618,-71.11111521723615,,,place-balsq,Ball Square,Green Line,59.0,Near
-S32008,Powder House Circle - Nathan Tufts Park,42.400877,-71.116772,,,place-balsq,Ball Square,Green Line,486.0,Away
-S32009,Packard Ave at Powderhouse Blvd,42.40449,-71.123413,,,place-mdftf,Medford/Tufts,Green Line,651.0,Away
-S32010,Clarendon Hill at Broadway,42.406302,-71.132446,,,place-mdftf,Medford/Tufts,Green Line,1278.0,Away
-S32011,Teele Square,42.40087950159558,-71.12590793383788,,,place-davis,Davis,Red Line,570.0,Away
-S32013,Magoun Square at Trum Field,42.39778339961249,-71.10594004465383,,,place-mgngl,Magoun Square,Green Line,458.0,Away
-S32014,Broadway St at Mt Pleasant St,42.38614141163957,-71.07828140258789,,,place-sull,Sullivan Square,Orange Line,263.0,Near
-S32015,Foss Park,42.39108438146733,-71.09039425849915,,,place-gilmn,Gilman Square,Green Line,630.0,Away
-S32016,Broadway at Central St,42.39517150121575,-71.09850591982195,,,place-mgngl,Magoun Square,Green Line,668.0,Away
-S32017,East Somerville Library (Broadway and Illinois),42.3876281075134,-71.08318716287613,,,place-sull,Sullivan Square,Orange Line,651.0,Away
-S32018,Assembly Square T,42.39223284004627,-71.07746601104736,,,place-astao,Assembly,Orange Line,67.0,Near
-S32019,Grove St at Community Path,42.396386809455,-71.12011306006025,,,place-davis,Davis,Red Line,145.0,Near
-S32021,Washington St at Myrtle St,42.3817508,-71.0839523,,,place-esomr,East Somerville,Green Line,336.0,Near
-S32022,Community Path at Cedar Street,42.39407223665884,-71.11133694648743,,,place-mgngl,Magoun Square,Green Line,409.0,Away
-S32023,30 Dane St,42.38100143038052,-71.10402522613185,,,place-unsqu,Union Square,Green Line,862.0,Away
-S32034,Perry Park,42.37927324600841,-71.10341902831351,,,place-unsqu,Union Square,Green Line,742.0,Away
-S32035,191 Beacon St,42.38032335045416,-71.10878612855231,,,place-harsq,Harvard,Red Line,1139.0,Away
-S32036,Somerville City Hall Annex,42.39189811591863,-71.09745375830244,,,place-gilmn,Gilman Square,Green Line,445.0,Away
-S32037,Craigie St at Summer St,42.38831607584243,-71.1106824874878,,,place-mgngl,Magoun Square,Green Line,693.0,Away
-S32038,Edgerly Education Center,42.38717463348314,-71.08714388528824,,,place-gilmn,Gilman Square,Green Line,795.0,Away
-S32039,Elm St at White St,42.38952436305763,-71.11694140364307,,,place-portr,Porter,Red Line,220.0,Near
-S32040,Community Path at Lowell St,42.392525,-71.105587,,,place-mgngl,Magoun Square,Green Line,144.0,Near
-S32041,Union Square East,42.380078,-71.090098,,,place-esomr,East Somerville,Green Line,293.0,Near
-S32046,Gilman Square T at Medford St,42.3867355,-71.0946444,,,place-gilmn,Gilman Square,Green Line,219.0,Near
-S32047,Foley St at Grand Union Blvd,42.39301840035393,-71.08071684837341,,,place-astao,Assembly,Orange Line,285.0,Near
-S32048,Somerville High School & Central Library,42.3864,-71.09601,,,place-gilmn,Gilman Square,Green Line,181.0,Near
-S32050,Boynton Yards at 101 South Street,42.37546,-71.091217,,,place-unsqu,Union Square,Green Line,360.0,Near
-S32052,Somerville Hospital,42.390413,-71.108571,,,place-mgngl,Magoun Square,Green Line,405.0,Away
-S32053,Chestnut St at Poplar St,42.377636,-71.085954,,,place-esomr,East Somerville,Green Line,211.0,Near
-S32054,Union Square Station,42.377309,-71.094428,,,place-unsqu,Union Square,Green Line,28.0,Near
-S32055,Grand Union Blvd at Revolution Dr,42.391658,-71.080351,,,place-astao,Assembly,Orange Line,285.0,Near
-S32056,Craigie & Summer at Conway Park (Temp. Winter Location),42.383384,-71.107511,,,place-gilmn,Gilman Square,Green Line,1017.0,Away
-S32057,Innerbelt at East Somerville Station,42.37960965003606,-71.0864374968312,,,place-esomr,East Somerville,Green Line,22.0,Near
-S32060,Middlesex Ave at Foley St,42.392821,-71.083186,,,place-astao,Assembly,Orange Line,487.0,Away
-T32001,Salem Ferry Landing,42.52189284110247,-70.8806911110878,,,place-wondl,Wonderland,Blue Line,15110.0,Away
-T32002,Salem Willows Park,42.53466911383265,-70.87021440267563,,,place-wondl,Wonderland,Blue Line,16762.0,Away
-T32003,Shetland Park - Congress at Peabody St,42.51836788262243,-70.88952362537384,,,place-wondl,Wonderland,Blue Line,14365.0,Away
-T32004,Mayor Salvo Path at Mill St,42.51803519796769,-70.89570075273514,,,place-wondl,Wonderland,Blue Line,14045.0,Away
-T32005,Salem MBTA - Washington at Federal St,42.52345239346618,-70.89611113071442,,,place-wondl,Wonderland,Blue Line,14529.0,Away
-T32006,Lafayette at Leach St,42.51142784358897,-70.89183300733566,,,place-wondl,Wonderland,Blue Line,13631.0,Away
-T32007 ,Salem State University - Bike Path at Loring Ave,42.50182398896298,-70.89478075504303,,,place-wondl,Wonderland,Blue Line,12640.0,Away
-T32008,Hawthorne Boulevard,42.5223714,-70.8903331,,,place-wondl,Wonderland,Blue Line,14691.0,Away
-T32009,Salem State University - North Campus,42.503332,-70.891444,,,place-wondl,Wonderland,Blue Line,12943.0,Away
-T32010,Forest River Park,42.506395,-70.88693,,,place-wondl,Wonderland,Blue Line,13442.0,Away
-T32011,Essex St at Dalton Parkway,42.516223,-70.905535,,,place-wondl,Wonderland,Blue Line,13438.0,Away
-T32012,Salem MBTA - Lower Level,42.523994,-70.89684,,,place-wondl,Wonderland,Blue Line,14548.0,Away
-T32013,Community Life Center,42.520136,-70.906271,,,place-wondl,Wonderland,Blue Line,13779.0,Away
-T32014,Goodhue St at Grove St,42.520897,-70.910528,,,place-wondl,Wonderland,Blue Line,13678.0,Away
-T32015,North St at Liberty Hill Ave,42.52989964975891,-70.90614259243011,,,place-wondl,Wonderland,Blue Line,14729.0,Away
-T32016,Bridge Street Neck,42.52810051875824,-70.88971138000488,,,place-wondl,Wonderland,Blue Line,15248.0,Away
-T32017,Vinnin Square,42.48628784971989,-70.90166732668875,,,place-wondl,Wonderland,Blue Line,10962.0,Away
-T32018,Derby Street,42.520096183311445,-70.8913904428482,,,place-wondl,Wonderland,Blue Line,14434.0,Away
-T32019,Flint St. at Bridge St.,42.521393,-70.905806,,,place-wondl,Wonderland,Blue Line,13918.0,Away
-V32001,7 Acre Park,42.41143222973408,-71.06823265090497,,,place-welln,Wellington,Orange Line,1242.0,Away
-V32003,Everett Square (Broadway at Norwood St),42.407381,-71.055356,,,place-welln,Wellington,Orange Line,1869.0,Away
-V32004,Broadway at Lynde St,42.39648358247693,-71.06546759905541,,,place-astao,Assembly,Orange Line,1051.0,Away
-V32005,Encore,42.39329263225162,-71.0724475979805,,,place-astao,Assembly,Orange Line,399.0,Near
-V32006,Glendale Square (Ferry St at Broadway),42.41427294293992,-71.04479655659816,,,place-mlmnl,Malden Center,Orange Line,2771.0,Away
-V32007,Swan St. Park,42.412504507772105,-71.05842225271772,,,place-welln,Wellington,Orange Line,1902.0,Away
-V32008,Broadway at Maple St,42.410346909767846,-71.05260457852637,,,place-welln,Wellington,Orange Line,2197.0,Away
-V32009,Pope John High School,42.420348701645025,-71.04419767862055,,,place-mlmnl,Malden Center,Orange Line,2553.0,Away
-V32011,Broadway at Beacham St,42.39836059620832,-71.06373842814719,,,place-welln,Wellington,Orange Line,1183.0,Away
-V32012,Hale Park,42.41532709603205,-71.05281829839441,,,place-mlmnl,Malden Center,Orange Line,2153.0,Away
-V32013,Kearins Playground,42.40616124132245,-71.06041654944418,,,place-welln,Wellington,Orange Line,1432.0,Away
-V32014,Wellington MBTA,42.4023682,-71.07573182424781,,,place-welln,Wellington,Orange Line,111.0,Near
-V32015,Gramsdorf Playground,42.408156,-71.0429,,,place-welln,Wellington,Orange Line,2879.0,Away
-V32016,Chelsea St at Vine St,42.403369462300134,-71.04731440549585,,,place-welln,Wellington,Orange Line,2447.0,Away
-V32017,Northern Strand - West St & Wellington Ave,42.403444,-71.063278,,,place-welln,Wellington,Orange Line,1140.0,Away
-W32001,Coolidge Sq.,42.372076114722866,-71.15683130688922,,,place-alfcl,Alewife,Red Line,2934.0,Away
-W32002,Watertown Sq,42.365260317694485,-71.18573324459247,,,place-alfcl,Alewife,Red Line,4988.0,Away
-W32004,Arsenal Yards,42.36277388549605,-71.15764854490408,,,place-harsq,Harvard,Red Line,3390.0,Away
-W32005,Watertown City Hall,42.36759307632294,-71.18751436471939,,,place-alfcl,Alewife,Red Line,4927.0,Away
-W32006,160 Arsenal St,42.36466403441681,-71.17569386959076,,,place-alfcl,Alewife,Red Line,4472.0,Away
-W32007,Nichols Ave. at Watertown Greenway,42.36762048745005,-71.1565663665533,,,place-harsq,Harvard,Red Line,3155.0,Away
-W32009,Arsenal on the Charles,42.36349850640871,-71.16421658177295,,,place-harsq,Harvard,Red Line,3877.0,Away
-W32010,Watertown St at 5th Ave,42.36289,-71.19127,,,place-alfcl,Alewife,Red Line,5502.0,Away
-W32011,99 Coolidge Ave,42.363675,-71.151786,,,place-harsq,Harvard,Red Line,2904.0,Away
-W32012,Galen St at Watertown St,42.36428,-71.18573,,,place-alfcl,Alewife,Red Line,5063.0,Away
-X32001,Warehouse Pillar Manager,42.38645499610106,-71.07541964272968,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,305.0,Near
-X32999,18 Dorrance Warehouse,42.387151,-71.075978,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,363.0,Near
-Z32997,Parker St at Huntington Ave,42.3384884941905,-71.09261138044758,Fenway,Boston,place-rugg,Ruggles,Orange Line,381.0,Near
-Z32998,Broadway at Kittie Knox Bike Path,42.36412658996667,-71.0873863200095,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,207.0,Near
-Z32999,Cummins Highway at Blue Hill Ave T Stop,42.269988465946064,-71.09746182817616,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,487.0,Away
-ZZ32996,Auburn St. at Mystic River,42.41759089672136,-71.12608127863496,,,place-mdftf,Medford/Tufts,Green Line,1301.0,Away
+station_id,station_name,lat,lng,neighborhood,city,nearest_t_stop_id,nearest_t_station,nearest_t_line,nearest_t_gated,dist_to_t_m,near_transit
+A32000,Fan Pier,42.3533905070523,-71.04457139968872,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,214.0,Near
+A32001,Union Square - Brighton Ave at Cambridge St,42.353334,-71.137313,Allston,Boston,place-alsgr,Allston Street,Green Line,False,518.0,Away
+A32002,Commonwealth Ave at Agganis Way,42.35169201885973,-71.11903488636017,Allston,Boston,place-babck,Babcock Street,Green Line,False,74.0,Near
+A32003,B.U. Central - 725 Comm. Ave.,42.350406,-71.108279,Fenway,Boston,place-bucen,Boston University Central,Green Line,False,122.0,Near
+A32004,Longwood Ave at Binney St,42.338629,-71.1065,Longwood,Boston,place-longw,Longwood,Green Line,False,444.0,Away
+A32005,Brighton Mills - 370 Western Ave,42.3615457081725,-71.13776206970215,Brighton,Boston,place-harvd,Harvard Avenue,Green Line,False,1363.0,Away
+A32006,Soldiers Field Park - 111 Western Ave,42.36426344063853,-71.1182756971175,Allston,Boston,place-harsq,Harvard,Red Line,True,1013.0,Away
+A32008,Park Dr at Buswell St,42.347241,-71.105301,Fenway,Boston,place-smary,Saint Mary's Street,Green Line,False,220.0,Near
+A32009,South End Library - Tremont St at W Newton St,42.341332,-71.076847,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,True,541.0,Away
+A32010,South Station - 700 Atlantic Ave,42.352175,-71.055547,Downtown,Boston,place-sstat,South Station,Red Line,True,27.0,Near
+A32011,Innovation Lab - 125 Western Ave at Batten Way,42.36371276003581,-71.12459778785706,Allston,Boston,place-harsq,Harvard,Red Line,True,1169.0,Away
+A32012,Packard's Corner - Commonwealth Ave at Brighton Ave,42.352261,-71.123831,Allston,Boston,place-brico,Packard's Corner,Green Line,False,104.0,Near
+A32013,Surface Rd at India St,42.358155,-71.052163,Downtown,Boston,place-aqucl,Aquarium,Blue Line,True,186.0,Near
+A32014,Stadium Rd at Western Ave,42.3630602068896,-71.1250450322948,Allston,Boston,place-brico,Packard's Corner,Green Line,False,1234.0,Away
+A32015,N. Harvard St at Harvard Way,42.36678297,-71.12517547,Allston,Boston,place-harsq,Harvard,Red Line,True,892.0,Away
+A32016,Gardner St at Alcorn St,42.35320766,-71.1233029,Allston,Boston,place-brico,Packard's Corner,Green Line,False,198.0,Near
+A32017,Commonwealth Ave at Griggs St,42.34922469338298,-71.13275302578586,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,161.0,Near
+A32019,175 N Harvard St,42.364474565180565,-71.12840831285212,Allston,Boston,place-harsq,Harvard,Red Line,True,1257.0,Away
+A32020,Atlantic Ave at Beach St,42.35070811,-71.05658926,Leather District,Boston,place-sstat,South Station,Red Line,True,206.0,Near
+A32021,Nashua Street at Red Auerbach Way [Extension],42.3658584571002,-71.064157369577,West End,Boston,place-north,North Station,Orange Line,True,238.0,Near
+A32022,Edwards Playground - Main St at Eden St,42.378965,-71.068607,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,599.0,Away
+A32023,Bunker Hill Community College,42.37408991426522,-71.06905996799469,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,65.0,Near
+A32024,Staniford St at Merrimac St,42.36358,-71.063721,West End,Boston,place-bomnl,Bowdoin,Blue Line,True,282.0,Near
+A32025,Nashua Street at Red Auerbach Way,42.365673,-71.064263,West End,Boston,place-north,North Station,Orange Line,True,244.0,Near
+A32026,Purchase St at Pearl St,42.354659,-71.053181,Downtown,Boston,place-sstat,South Station,Red Line,True,315.0,Near
+A32028,Bennington St at Byron St,42.383532520117896,-71.01619094610214,East Boston,Boston,place-wimnl,Wood Island,Blue Line,True,698.0,Away
+A32029,Piers Park,42.36501119822304,-71.03528559207916,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,575.0,Away
+A32030,Maverick Square - Lewis Mall,42.36884408289835,-71.03977829217911,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,37.0,Near
+A32031,East Boston Neighborhood Health Center - 20 Maverick Square,42.369536,-71.039431,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,47.0,Near
+A32032,Bremen St at Marion St,42.37410622047334,-71.03276252757496,East Boston,Boston,place-aport,Airport,Blue Line,True,195.0,Near
+A32033,The Eddy - New St at Sumner St,42.370744,-71.044201,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,424.0,Away
+A32034,Glendon St at Condor St,42.38240377674137,-71.03024303913116,East Boston,Boston,place-wimnl,Wood Island,Blue Line,True,679.0,Away
+A32035,Orient Heights T Stop - Bennington St at Saratoga St,42.386781,-71.006098,East Boston,Boston,place-orhte,Orient Heights,Blue Line,True,112.0,Near
+A32036,Boston East - 126 Border St,42.373312125824704,-71.0410200806291,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,482.0,Away
+A32037,Washington St at Egremont Rd,42.34286835071959,-71.14127840855872,Brighton,Boston,place-wascm,Washington Street,Green Line,False,170.0,Near
+A32039,Bennington St at Constitution Beach,42.385223935870535,-71.01063068965232,East Boston,Boston,place-orhte,Orient Heights,Blue Line,True,517.0,Away
+A32040,Honan Library,42.36027370454934,-71.12852452327388,Allston,Boston,place-brico,Packard's Corner,Green Line,False,967.0,Away
+A32041,Central Square East Boston,42.37544912547037,-71.03918548682486,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,704.0,Away
+A32042,Surface Rd at Summer St,42.35294569782581,-71.05656400803126,Downtown,Boston,place-sstat,South Station,Red Line,True,132.0,Near
+A32044,Maverick St at Massport Path,42.36774122306014,-71.0333597474255,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,530.0,Away
+A32045,Boston Landing,42.35656092308941,-71.14167537549292,Brighton,Boston,place-wrnst,Warren Street,Green Line,False,919.0,Away
+A32046,Canal St at Causeway St,42.365188,-71.060788,West End,Boston,place-north,North Station,Orange Line,True,60.0,Near
+A32047,Broad St at Central St,42.35849449039304,-71.05426469875965,Downtown,Boston,place-aqucl,Aquarium,Blue Line,True,258.0,Near
+A32048,Marion St at White St,42.38066930871317,-71.03907315999093,East Boston,Boston,place-aport,Airport,Blue Line,True,1008.0,Away
+A32049,Gove St at Orleans St,42.37057753242139,-71.03558540113227,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,362.0,Near
+A32050,Porzio Park,42.364119035231525,-71.02876782417297,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,1044.0,Away
+A32051,Day Sq,42.379295,-71.027733,East Boston,Boston,place-wimnl,Wood Island,Blue Line,True,402.0,Away
+A32052,Harvard Stadium: N. Harvard St at Soldiers Field Rd,42.368019,-71.1242,Allston,Boston,place-harsq,Harvard,Red Line,True,734.0,Away
+A32053,Valenti Way at Haverhill St,42.36473898691789,-71.05934903025626,West End,Boston,place-north,North Station,Orange Line,True,185.0,Near
+A32054,Addison St at Saratoga St,42.38518146513944,-71.0151367,East Boston,Boston,place-orhte,Orient Heights,Blue Line,True,875.0,Away
+A32055,Airport T Stop - Bremen St at Brooks St,42.375578,-71.031243,East Boston,Boston,place-aport,Airport,Blue Line,True,162.0,Near
+A32056,Riverway at Brookline Ave,42.33661005730433,-71.11004680395126,Longwood,Boston,place-mispk,Mission Park,Green Line,False,380.0,Near
+A32057,Lewis Mall Wharf,42.365678711213775,-71.04030132293701,East Boston,Boston,place-mvbcl,Maverick,Blue Line,True,388.0,Near
+A32058,Tremont St at Court St,42.359086,-71.05971,Downtown,Boston,place-gover,Government Center,Green Line,True,80.0,Near
+A32059,High St at Federal St,42.35352778,-71.05622222,Downtown,Boston,place-sstat,South Station,Red Line,True,161.0,Near
+A32061,Commercial St at Charter St,42.36817,-71.056847,North End,Boston,place-north,North Station,Orange Line,True,465.0,Away
+A32062,Western Ave at Everett St,42.363168,-71.134719,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,1464.0,Away
+A32063,Herter Park,42.365723613644,-71.13539289,Allston,Boston,place-harsq,Harvard,Red Line,True,1595.0,Away
+A32064,Western Ave at Leo Birmingham Pkwy,42.36155856,-71.14506038,Brighton,Boston,place-wrnst,Warren Street,Green Line,False,1517.0,Away
+A32065,Ashley St at Boardman,42.389155,-71.010409,East Boston,Boston,place-orhte,Orient Heights,Blue Line,True,531.0,Away
+A32066,Bennington St at Marion St,42.37590859,-71.03598452,East Boston,Boston,place-aport,Airport,Blue Line,True,494.0,Away
+A32067,Surface Rd at State Street,42.359743,-71.052602,Downtown,Boston,place-aqucl,Aquarium,Blue Line,True,78.0,Near
+A32068,Wood Island T Stop - Vienna St at Bennington St,42.380024,-71.024441,East Boston,Boston,place-wimnl,Wood Island,Blue Line,True,136.0,Near
+A32070,Ringer Park - Webley St at Armington St,42.35225564,-71.13718336,Allston,Boston,place-alsgr,Allston Street,Green Line,False,400.0,Near
+B32000,Newbury St at Hereford St,42.348717,-71.085954,Back Bay,Boston,place-hymnl,Hynes Convention Center,Green Line,True,185.0,Near
+B32001,Fenway at Museum Rd,42.33919988,-71.09662527,Fenway,Boston,place-mfa,Museum of Fine Arts,Green Line,False,189.0,Near
+B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,42.33624444796878,-71.08798563480377,Roxbury,Boston,place-rugg,Ruggles,Orange Line,True,82.0,Near
+B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,42.3374174845973,-71.10286116600037,Longwood,Boston,place-lngmd,Longwood Medical Area,Green Line,False,282.0,Near
+B32004,Aquarium T Stop - 200 Atlantic Ave,42.359860234398624,-71.05160077295436,Downtown,Boston,place-aqucl,Aquarium,Blue Line,True,9.0,Near
+B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave,42.3436658245146,-71.08582377433777,Back Bay,Boston,place-symcl,Symphony,Green Line,True,126.0,Near
+B32006,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,42.34011512249236,-71.10061883926392,Longwood,Boston,place-lngmd,Longwood Medical Area,Green Line,False,464.0,Away
+B32007,Seaport Square - Seaport Blvd at Northern Ave,42.35148193460858,-71.04436084628105,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,231.0,Near
+B32008,Boston City Hall - 28 State St,42.35892,-71.057629,Downtown,Boston,place-state,State Street,Orange Line,True,7.0,Near
+B32009,Fenway at Forsyth Way,42.34102248,-71.09210481,Fenway,Boston,place-nuniv,Northeastern University,Green Line,False,280.0,Near
+B32010,Kenmore Square,42.348706,-71.097009,Fenway,Boston,place-kencl,Kenmore,Green Line,True,154.0,Near
+B32011,Kenmore Square - 660 Beacon St,42.34922,-71.095751,Fenway,Boston,place-kencl,Kenmore,Green Line,True,57.0,Near
+B32012,Northeastern University - North Parking Lot,42.341814,-71.090179,Fenway,Boston,place-nuniv,Northeastern University,Green Line,False,193.0,Near
+B32013,Brigham Circle - Francis St at Huntington Ave,42.33462893055976,-71.10407917767589,Longwood,Boston,place-brmnl,Brigham Circle,Green Line,False,62.0,Near
+B32014,Seaport Hotel - Congress St at Seaport Ln,42.34881026188269,-71.04167744055303,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,67.0,Near
+B32015,Landmark Center - Brookline Ave at Park Dr,42.34369055719747,-71.10235286881107,Fenway,Boston,place-fenwy,Fenway,Green Line,False,244.0,Near
+B32016,Beacon St at Massachusetts Ave,42.35082680669095,-71.0898108780384,Fenway,Boston,place-hymnl,Hynes Convention Center,Green Line,True,362.0,Near
+B32017,Dudley Square - Bolling Building,42.329842993518085,-71.08386572459494,Roxbury,Boston,place-rugg,Ruggles,Orange Line,True,839.0,Away
+B32018,Boylston St at Massachusetts Ave,42.34740620525209,-71.08678414955648,Back Bay,Boston,place-hymnl,Hynes Convention Center,Green Line,True,106.0,Near
+B32019,New Edgerly Plaza - Westland Ave at Edgerly Rd,42.34367194,-71.08742,Fenway,Boston,place-symcl,Symphony,Green Line,True,223.0,Near
+B32020,Burlington Ave at Brookline Ave,42.345733,-71.100694,Fenway,Boston,place-fenwy,Fenway,Green Line,False,292.0,Near
+B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St,42.33758601097239,-71.09627097845076,Fenway,Boston,place-mfa,Museum of Fine Arts,Green Line,False,64.0,Near
+B32022,Roxbury YMCA - Warren St at MLK Blvd,42.31787329345602,-71.08243077993393,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,True,1527.0,Away
+B32023,MLK Blvd at Washington St,42.32143814183195,-71.09126061201096,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,True,710.0,Away
+B32024,Pilgrim Rd at Brookline Ave,42.3425995,-71.104903,Longwood,Boston,place-fenwy,Fenway,Green Line,False,317.0,Near
+B32025,Uphams Corner T Stop - Magnolia St at Dudley St,42.318697341722434,-71.0697814822197,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,1447.0,Away
+B32026,Washington St at Melnea Cass Blvd,42.332817,-71.081198,Roxbury,Boston,place-rugg,Ruggles,Orange Line,True,751.0,Away
+B32027,NCAAA - Walnut Ave at Crawford St,42.316902,-71.091946,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,True,935.0,Away
+B32028,Grove Hall Library - 41 Geneva Ave,42.30791,-71.080952,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,1809.0,Away
+B32029,Columbia Rd at Ceylon St,42.309572,-71.0729,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,1402.0,Away
+B32030,Walnut Ave at Warren St,42.324081,-71.083235,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,True,1292.0,Away
+B32031,Bowdoin St at Quincy St,42.30785224238503,-71.06512248516083,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,908.0,Away
+B32032,Government Center - Cambridge St at Court St,42.3598253979878,-71.05979576244862,Downtown,Boston,place-gover,Government Center,Green Line,True,50.0,Near
+B32033,Huntington Ave at Mass Art,42.336585554561154,-71.0988699646623,Longwood,Boston,place-lngmd,Longwood Medical Area,Green Line,False,119.0,Near
+B32034,Boylston St at Jersey St,42.344650628878306,-71.09732501226972,Fenway,Boston,place-kencl,Kenmore,Green Line,True,510.0,Away
+B32035,Cleveland Circle,42.335543083570826,-71.15061519672052,Brighton,Boston,place-clmnl,Cleveland Circle,Green Line,False,125.0,Near
+B32036,One Brigham Circle,42.33392270136997,-71.10446508982932,Mission Hill,Boston,place-brmnl,Brigham Circle,Green Line,False,36.0,Near
+B32037,Deerfield St at Commonwealth Ave,42.34924376955301,-71.09728209692548,Fenway,Boston,place-kencl,Kenmore,Green Line,True,177.0,Near
+B32038,Chestnut Hill Ave at Ledgemere Rd,42.343706,-71.153257,Brighton,Boston,place-chswk,Chiswick Road,Green Line,False,385.0,Near
+B32039,Huntington Ave at Colburn St,42.33268137,-71.11083321,Mission Hill,Boston,place-mispk,Mission Park,Green Line,False,105.0,Near
+B32040,Ipswich St at Van Ness St,42.3458089,-71.09548545,Fenway,Boston,place-kencl,Kenmore,Green Line,True,350.0,Near
+B32041,Chestnut Hill Ave at Winship St ,42.34560832,-71.15276024,Brighton,Boston,place-chswk,Chiswick Road,Green Line,False,560.0,Away
+B32043,Reservoir Rd at Beacon St,42.331459,-71.157672,Brighton,Boston,place-chhil,Chestnut Hill,Green Line,False,779.0,Away
+B32055,Bartlett St at John Elliot Sq,42.3294633,-71.0901582,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,True,485.0,Away
+B32056,Tremont St at Hamilton Pl,42.35668334969929,-71.06166645884514,Downtown,Boston,place-pktrm,Park Street,Green Line,True,70.0,Near
+B32057,Blue Hill Ave at Southwood St,42.31786020589987,-71.07798628527235,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,True,1871.0,Away
+B32058,Lansdowne T Stop,42.34734473177431,-71.1001680795016,Fenway,Boston,place-bland,Blandford Street,Green Line,False,217.0,Near
+B32059,Whittier St Health Center,42.332862884862635,-71.09218861916816,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,True,314.0,Near
+B32060,700 Commonwealth Ave.,42.349856,-71.103825,Fenway,Boston,place-buest,Boston University East,Green Line,False,14.0,Near
+B32061,One Beacon St,42.358477644348106,-71.06135129928589,Downtown,Boston,place-gover,Government Center,Green Line,True,222.0,Near
+B32062,Forsyth St at Huntington Ave,42.34002048,-71.09068836,Fenway,Boston,place-nuniv,Northeastern University,Green Line,False,160.0,Near
+B32063,St. Alphonsus St at Tremont St,42.33329254719182,-71.10124647617339,Mission Hill,Boston,place-brmnl,Brigham Circle,Green Line,False,295.0,Near
+B32064,Flat 9 at Whittier,42.33420351352245,-71.08767616843123,Roxbury,Boston,place-rugg,Ruggles,Orange Line,True,264.0,Near
+B32065,Massachusetts Ave at Boylston St.,42.34752,-71.088012,Fenway,Boston,place-hymnl,Hynes Convention Center,Green Line,True,42.0,Near
+B32066,Commonwealth Ave at Granby St,42.349856,-71.103825,Fenway,Boston,place-buest,Boston University East,Green Line,False,14.0,Near
+B32067,Commonwealth Ave at Blandford Mall,42.349,-71.10047179,Fenway,Boston,place-bland,Blandford Street,Green Line,False,37.0,Near
+B32068,Park Street T Stop - Tremont St at Park St,42.3566271,-71.062457,Beacon Hill,Boston,place-pktrm,Park Street,Green Line,True,26.0,Near
+B32069,Huntington Ave at St. Alphonsus St,42.33611341,-71.09921672,Mission Hill,Boston,place-lngmd,Longwood Medical Area,Green Line,False,71.0,Near
+B32070,Smith St at Parker St,42.33290175,-71.09683344,Mission Hill,Boston,place-rcmnl,Roxbury Crossing,Orange Line,True,202.0,Near
+B32071,St Alphonsus St at Horadan Way,42.33506481,-71.0998929,Mission Hill,Boston,place-lngmd,Longwood Medical Area,Green Line,False,100.0,Near
+B32092,Congress St at Boston Wharf Rd,42.34951487,-71.046713,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,327.0,Near
+BCBS01,BCBS Hingham,42.16722555541654,-70.90555783370291,,,place-brntn,Braintree,Red Line,True,9079.0,Away
+C23015,Pope John Paul II Park - Neponset Trail at Hallet St,42.279774,-71.046085,Dorchester,Boston,place-cedgr,Cedar Grove,Mattapan Line,False,1177.0,Away
+C23045,Morton St T,42.280725142920296,-71.08617242434775,Mattapan,Boston,place-valrd,Valley Road,Mattapan Line,False,1433.0,Away
+C23109,Cedar Grove T Stop,42.27960759693163,-71.06022119527552,Dorchester,Boston,place-cedgr,Cedar Grove,Mattapan Line,False,14.0,Near
+C32000,Tremont St at E Berkeley St,42.345392,-71.069616,South End,Boston,place-bbsta,Back Bay,Orange Line,True,547.0,Away
+C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St,42.331184,-71.095171,Roxbury,Boston,place-rcmnl,Roxbury Crossing,Orange Line,True,33.0,Near
+C32002,Boston Medical Center - E Concord St at Harrison Ave,42.33639915372498,-71.07306711393903,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,True,1024.0,Away
+C32003,Back Bay T Stop - Dartmouth St at Stuart St,42.34807412317439,-71.07657015323639,Back Bay,Boston,place-bbsta,Back Bay,Orange Line,True,106.0,Near
+C32004,Massachusetts Ave at Columbus Ave,42.340835,-71.0816197,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,True,166.0,Near
+C32005,Washington St at Lenox St,42.3350989929096,-71.07903778553009,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,799.0,Away
+C32006,Washington St at Rutland St,42.338514601785995,-71.07404083013535,South End,Boston,place-masta,Massachusetts Avenue,Orange Line,True,840.0,Away
+C32007,Prudential Center - 101 Huntington Ave,42.34652003998412,-71.08065776545118,Back Bay,Boston,place-prmnl,Prudential,Green Line,True,136.0,Near
+C32008,Boylston St at Fairfield St,42.348803822833936,-71.08236908912659,Back Bay,Boston,place-prmnl,Prudential,Green Line,True,364.0,Near
+C32009,Dorchester Ave at Gillette Park,42.34404051001635,-71.05737626552582,South Boston,Boston,place-brdwy,Broadway,Red Line,True,161.0,Near
+C32010,Congress St at Sleeper St,42.351004495946704,-71.04930013418198,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,258.0,Near
+C32011,Harbor St at Channel St,42.34514378,-71.03645329,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,628.0,Away
+C32012,Andrew T Stop - Dorchester Ave at Dexter St,42.3313327561103,-71.057084869615,South Boston,Boston,place-andrw,Andrew,Red Line,True,139.0,Near
+C32013,JFK/UMass T Stop,42.32033973515723,-71.05118036270142,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,107.0,Near
+C32014,University of Massachusetts Boston - Campus Center,42.31218918475612,-71.03648586203235,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,True,1389.0,Away
+C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,42.325333,-71.075354,Roxbury,Boston,place-andrw,Andrew,Red Line,True,1551.0,Away
+C32016,W Broadway at Dorchester St,42.335958979433094,-71.04622899561036,South Boston,Boston,place-andrw,Andrew,Red Line,True,1140.0,Away
+C32017,South Boston Library - 646 E Broadway,42.335741,-71.03877,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,True,1465.0,Away
+C32018,E Cottage St at Columbia Rd,42.320561,-71.06198,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,788.0,Away
+C32019,Uphams Corner,42.31727474327453,-71.06537003967787,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,1132.0,Away
+C32020,ID Building East,42.344827,-71.028664,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,1210.0,Away
+C32021,ID Building West,42.344796,-71.031614,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,988.0,Away
+C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,42.326599,-71.066498,South Boston,Boston,place-andrw,Andrew,Red Line,True,827.0,Away
+C32023,Murphy Skating Rink - 1880 Day Blvd,42.336448,-71.023739,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,True,2050.0,Away
+C32024,State Street at Channel Center,42.344137,-71.052608,South Boston Waterfront,Boston,place-brdwy,Broadway,Red Line,True,396.0,Near
+C32025,Ink Block - Harrison Ave at Herald St,42.345901,-71.063187,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,422.0,Away
+C32026,Au Bon Pain Way at Fid Kennedy Ave,42.3461009,-71.0291997,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,1125.0,Away
+C32027,Franklin Park - Seaver St at Humboldt Ave,42.309796,-71.092225,Roxbury,Boston,place-grnst,Green Street,Orange Line,True,1252.0,Away
+C32028,The Lawn on D,42.344792,-71.044024,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,446.0,Away
+C32029,W Broadway at D St,42.3391085,-71.0514432,South Boston,Boston,place-brdwy,Broadway,Red Line,True,599.0,Away
+C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,42.303469,-71.085347,Roxbury,Boston,place-grnst,Green Street,Orange Line,True,1977.0,Away
+C32031,Ryan Playground - Dorchester Ave at Harbor View St,42.317642,-71.056664,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,488.0,Away
+C32032,Congress St at Northern Ave,42.3481,-71.03764,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,400.0,Near
+C32033,Savin Hill T Stop - S Sydney St at Bay St,42.3106,-71.0539,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,True,90.0,Near
+C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,42.351586001198456,-71.04569256305693,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,135.0,Near
+C32035,Troy Boston,42.343749,-71.062256,South End,Boston,place-brdwy,Broadway,Red Line,True,452.0,Away
+C32036,Seaport Blvd at Sleeper St,42.35317809186252,-71.04817356923377,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,136.0,Near
+C32037,Four Corners - 157 Washington St,42.304127927390155,-71.07929527759552,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,1518.0,Away
+C32038,Washington St at Talbot Ave,42.290333,-71.071806,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,588.0,Away
+C32039,Park St at Norwell St,42.29442578670662,-71.07821760713703,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,1037.0,Away
+C32040,Gallivan Blvd at Adams St,42.28297567840305,-71.05466698296368,Dorchester,Boston,place-cedgr,Cedar Grove,Mattapan Line,False,600.0,Away
+C32041,Fields Corner T Stop,42.299633488420625,-71.06068975823291,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,95.0,Near
+C32042,Washington St at Bowdoin St,42.29916497936589,-71.07345871645519,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,924.0,Away
+C32043,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,1765.0,Away
+C32044,Blue Hill Ave at Almont St,42.27462067181224,-71.09372552493369,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,True,785.0,Away
+C32045,Mattapan T Stop,42.267902,-71.093641,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,True,100.0,Near
+C32046,Roslindale Village - Washington St,42.28630716010807,-71.12820532182013,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1985.0,Away
+C32047,Roslindale Village - South St,42.287072,-71.127754,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1895.0,Away
+C32048,Archdale Rd at Washington St,42.29266592872725,-71.12119538714069,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1075.0,Away
+C32049,Thetford Ave at Norfolk St,42.286212948246096,-71.07942931372236,Dorchester,Boston,place-asmnl,Ashmont,Red Line,True,1301.0,Away
+C32050,Mattapan Library,42.2773889,-71.09325,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,True,1088.0,Away
+C32051,Farragut Rd at E. 6th St,42.3334,-71.02495,South Boston,Boston,place-wtcst,World Trade Center,Silver Line,True,2222.0,Away
+C32052,Columbia Rd at Tierney Community Center,42.33023070528729,-71.05060093123029,South Boston,Boston,place-andrw,Andrew,Red Line,True,580.0,Away
+C32053,Broadway T Stop,42.343048583900966,-71.05803430091328,South Boston,Boston,place-brdwy,Broadway,Red Line,True,100.0,Near
+C32054,Shawmut Ave at Herald St,42.346647,-71.066049,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,378.0,Near
+C32055,Codman Square Library,42.2873611,-71.071111,Dorchester,Boston,place-asmnl,Ashmont,Red Line,True,681.0,Away
+C32056,Tremont St at Northampton St,42.338431795290944,-71.08169049924982,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,371.0,Near
+C32057,Harrison Ave at Mullins Way,42.34521562115022,-71.0638403149278,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,494.0,Away
+C32059,Belgrade Ave at Walworth St,42.28634589486312,-71.13672129828046,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,2462.0,Away
+C32060,Tremont St at W. Dedham St,42.34254913737952,-71.07421449387857,South End,Boston,place-bbsta,Back Bay,Orange Line,True,548.0,Away
+C32061,Albany St at E. Brookline St,42.33664795427071,-71.0689445958451,South End,Boston,place-andrw,Andrew,Red Line,True,1176.0,Away
+C32062,Ashmont T Stop,42.2856944,-71.0641389,Dorchester,Boston,place-asmnl,Ashmont,Red Line,True,134.0,Near
+C32063,Mass Ave T Station,42.34135615767354,-71.08336953450817,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,18.0,Near
+C32064,Sydney St at Carson St,42.32039374304257,-71.05355408051764,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,101.0,Near
+C32065,Adams St at Mallet St.,42.290891,-71.056746,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,780.0,Away
+C32066,Dorchester Ave at King St,42.291718,-71.062571,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,304.0,Near
+C32067,Washington St at Peters Park,42.342958,-71.067052,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,789.0,Away
+C32068,Melnea Cass Blvd at Hampden St,42.333586070395285,-71.075188,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,1111.0,Away
+C32069,Damrell St at Old Colony,42.3324824,-71.0542411,South Boston,Boston,place-andrw,Andrew,Red Line,True,382.0,Near
+C32070,300 Summer St,42.349784,-71.048935,South Boston Waterfront,Boston,place-crtst,Courthouse,Silver Line,True,342.0,Near
+C32071,Northern Ave at Haul Rd,42.347181,-71.035796,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,571.0,Away
+C32072,Washington St at Northampton St,42.33625888,-71.07756446,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,757.0,Away
+C32073,Walk Hill St at American Legion,42.28801503,-71.10730608,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1514.0,Away
+C32074,Harambee Park - Westview St at Blue Hill Ave,42.2912605,-71.088675,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,1898.0,Away
+C32075,Huntington Ave at Exeter St,42.34785628,-71.078951,Back Bay,Boston,place-coecl,Copley,Green Line,True,266.0,Near
+C32076,Warren Ave at Dartmouth St,42.3443104650768,-71.0740339266782,South End,Boston,place-bbsta,Back Bay,Orange Line,True,366.0,Near
+C32077,Columbus Ave at W. Canton St,42.34474224772802,-71.07648162175792,South End,Boston,place-bbsta,Back Bay,Orange Line,True,297.0,Near
+C32078,Northbourne Rd at Hyde Park Ave,42.29118034790426,-71.117736660035,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,True,1105.0,Away
+C32079,American Legion Hwy at Cummins Hwy,42.278811581565975,-71.11687703062671,Roslindale,Boston,place-matt,Mattapan Line,Mattapan Line,True,2361.0,Away
+C32080,Mt. Hope St at Hyde Park Ave,42.28484472443536,-71.11874517062459,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1808.0,Away
+C32081,Washington St at Denton Terr,42.280728147169015,-71.13423757273267,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,2779.0,Away
+C32082,Bike Town at Moakley Park,42.32586,-71.049142,South Boston,Boston,place-jfk,JFK/UMass,Red Line,True,634.0,Away
+C32083,Washington St at Walsh Playground,42.277194696397906,-71.06955613950048,Mattapan,Boston,place-miltt,Milton,Mattapan Line,False,784.0,Away
+C32084,Washington St at Fuller St,42.281986277339136,-71.07147924620222,Dorchester,Boston,place-asmnl,Ashmont,Red Line,True,693.0,Away
+C32085,Centre St at W. Roxbury Post Office,42.286331991127746,-71.15344755369732,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,True,3621.0,Away
+C32086,Centre St at Parkway YMCA,42.28277901074054,-71.15728851416861,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,True,4085.0,Away
+C32087,Spring St at Powell St,42.277484442008216,-71.16341467955863,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,True,4820.0,Away
+C32088,Central Ave at River St,42.27094707029229,-71.07337901405117,Mattapan,Boston,place-cenav,Central Avenue,Mattapan Line,False,102.0,Near
+C32089,Hyde Park Ave at Walk Hill St,42.29606704649873,-71.11601199963843,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,True,544.0,Away
+C32090,Geiger Gibson Community Health Center,42.31886468217537,-71.04536797860419,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,612.0,Away
+C32091,645 Summer St,42.341780891371904,-71.03987016504107,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,791.0,Away
+C32092,Blue Hill Ave at Havelock St,42.286012,-71.090986,Dorchester,Boston,place-matt,Mattapan Line,Mattapan Line,True,2049.0,Away
+C32093,Harrison Ave at E. Dedham St,42.339194,-71.06975,South End,Boston,place-bbsta,Back Bay,Orange Line,True,1031.0,Away
+C32094,2 Hummingbird Lane at Olmsted Green,42.28887,-71.095003,Mattapan,Boston,place-forhl,Forest Hills,Orange Line,True,2040.0,Away
+C32095,Bellevue T Stop,42.28593,-71.147221,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,3193.0,Away
+C32096,Knoll St at Centre St,42.29376656473529,-71.1365658044815,West Roxbury,Boston,place-forhl,Forest Hills,Orange Line,True,2015.0,Away
+C32099,Circuit Drive at American Legion Hwy,42.29704126420948,-71.09171926975249,Roxbury,Boston,place-forhl,Forest Hills,Orange Line,True,1873.0,Away
+C32100,Hyde Park Ave at Arlington St,42.26286746177123,-71.12163126468657,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,2456.0,Away
+C32101,American Legion Hwy at Hyde Park Ave,42.27265394101898,-71.119903922081,Roslindale,Boston,place-matt,Mattapan Line,Mattapan Line,True,2324.0,Away
+C32102,Walnut Ave at School St,42.31242399029812,-71.09616905450821,Roxbury,Boston,place-sbmnl,Stony Brook,Orange Line,True,841.0,Away
+C32103,Morton St at Gallivan Blvd,42.278747,-71.080286,Mattapan,Boston,place-cenav,Central Avenue,Mattapan Line,False,1121.0,Away
+C32104,Cleary Sq,42.2556,-71.12444,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,2950.0,Away
+C32105,606 American Legion Hwy at Canterbury St,42.28578,-71.109725,Roslindale,Boston,place-forhl,Forest Hills,Orange Line,True,1696.0,Away
+C32106,555 Metropolitan Ave,42.2681,-71.11924,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,2202.0,Away
+C32107,Pier 4 Blvd at Autumn Ln,42.3502102,-71.0446705,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,253.0,Near
+C32108,Beach St at Freeport St,42.303674088927075,-71.05425953865051,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,728.0,Away
+C32109,Centre St at Allandale St,42.300806,-71.127436,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,True,1110.0,Away
+C32110,Talbot Ave T Station,42.29225148276875,-71.07797205453608,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,1011.0,Away
+C32111,Four Corners/Geneva T Stop,42.30321534982497,-71.07820987712329,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,1404.0,Away
+C32112,Meaney Playground - Pleasant St at E Cottage St,42.319384,-71.058291,Dorchester,Boston,place-jfk,JFK/UMass,Red Line,True,506.0,Away
+C32113,Hancock St at Pleasant St,42.30981924861789,-71.06019938382815,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,True,588.0,Away
+C32114,780 Morrissey Blvd,42.295305,-71.047186,Dorchester,Boston,place-fldcr,Fields Corner,Red Line,True,1305.0,Away
+C32115,Washington St at W Dedham St,42.34033571273476,-71.07179929523453,South End,Boston,place-bbsta,Back Bay,Orange Line,True,844.0,Away
+C32116,Dorchester Ave at Savin Hill Ave,42.312398,-71.05743,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,True,359.0,Near
+C32117,135 Morrissey Blvd,42.31556927,-71.04841571,Dorchester,Boston,place-shmnl,Savin Hill,Red Line,True,624.0,Away
+C32118,Melnea Cass Blvd at Hampden St,42.330976,-71.075478,Roxbury,Boston,place-rugg,Ruggles,Orange Line,True,1261.0,Away
+D32000,Cambridge St at Joy St,42.36125721646537,-71.06528744101524,West End,Boston,place-bomnl,Bowdoin,Blue Line,True,267.0,Near
+D32001,New Balance - 20 Guest St,42.35732921867706,-71.14673539996147,Brighton,Boston,place-wrnst,Warren Street,Green Line,False,1125.0,Away
+D32002,Washington St at Waltham St,42.34157471873747,-71.06890439987183,South End,Boston,place-bbsta,Back Bay,Orange Line,True,853.0,Away
+D32003,Faneuil St at Bothwell Rd,42.35334878,-71.159358,Brighton,Boston,place-sougr,South Street,Green Line,False,1535.0,Away
+D32004,Arch St at Franklin St,42.35533501941256,-71.0582291708306,Downtown,Boston,place-dwnxg,Downtown Crossing,Red Line,True,165.0,Near
+D32005,Copley Square - Dartmouth St at Boylston St,42.34992828230057,-71.07739206866427,Back Bay,Boston,place-coecl,Copley,Green Line,True,7.0,Near
+D32006,Lewis Wharf at Atlantic Ave,42.363871,-71.050877,North End,Boston,place-aqucl,Aquarium,Blue Line,True,459.0,Away
+D32007,Boylston St at Arlington St,42.352095,-71.07022,Beacon Hill,Boston,place-armnl,Arlington,Green Line,True,59.0,Near
+D32008,Rowes Wharf at Atlantic Ave,42.357143,-71.050699,Downtown,Boston,place-aqucl,Aquarium,Blue Line,True,304.0,Near
+D32009,Congress St at Boston City Hall,42.36041774637169,-71.05752243543975,Downtown,Boston,place-gover,Government Center,Green Line,True,160.0,Near
+D32010,Cross St at Hanover St,42.362811,-71.056067,North End,Boston,place-haecl,Haymarket,Orange Line,True,184.0,Near
+D32011,Stuart St at Charles St,42.351146,-71.066289,Downtown,Boston,place-boyls,Boylston,Green Line,True,251.0,Near
+D32012,Post Office Square,42.35585435522005,-71.05459745998814,Downtown,Boston,place-sstat,South Station,Red Line,True,402.0,Away
+D32013,Boylston St at Berkeley St,42.3511419825475,-71.07329249382019,Back Bay,Boston,place-armnl,Arlington,Green Line,True,215.0,Near
+D32014,Tremont St at West St,42.354979,-71.063348,Downtown,Boston,place-pktrm,Park Street,Green Line,True,175.0,Near
+D32015,Chinatown Gate Plaza,42.351356,-71.059367,Chinatown,Boston,place-chncl,Chinatown,Orange Line,True,308.0,Near
+D32016,Charles Circle - Charles St at Cambridge St,42.36079296858265,-71.07118962337152,Beacon Hill,Boston,place-chmnl,Charles/MGH,Red Line,True,62.0,Near
+D32017,Mugar Way at Beacon St,42.35553628489709,-71.07286870479584,Beacon Hill,Boston,place-armnl,Arlington,Green Line,True,436.0,Away
+D32018,Boston Convention and Exhibition Center - Summer St at West Side Dr,42.347763454147454,-71.0453599691391,South Boston Waterfront,Boston,place-wtcst,World Trade Center,Silver Line,True,257.0,Near
+D32019,Chinatown T Stop,42.352409,-71.062679,Downtown,Boston,place-chncl,Chinatown,Orange Line,True,16.0,Near
+D32020,Main St at Austin St,42.375603,-71.064608,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,461.0,Away
+D32021,Warren St at Chelsea St,42.371848,-71.060292,Charlestown,Boston,place-north,North Station,Orange Line,True,702.0,Away
+D32022,West End Park,42.36590788445084,-71.06446668505669,West End,Boston,place-north,North Station,Orange Line,True,264.0,Near
+D32023,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,42.378338,-71.048927,Charlestown,Boston,place-mvbcl,Maverick,Blue Line,True,1283.0,Away
+D32024,Beacon St at Charles St,42.356052,-71.069849,Beacon Hill,Boston,place-armnl,Arlington,Green Line,True,469.0,Away
+D32025,Charles St S at Stuart,42.35077778,-71.06669444,Downtown,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,260.0,Near
+D32026,Hayes Square - Vine St at Moulton St,42.377022,-71.056605,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,1127.0,Away
+D32027,Boston Public Market - Surface Rd at Sudbury St,42.362561,-71.057489,Downtown,Boston,place-haecl,Haymarket,Orange Line,True,83.0,Near
+D32028,Brighton Center - Washington St at Cambridge St,42.34894857235593,-71.15027189254761,Brighton,Boston,place-wrnst,Warren Street,Green Line,False,809.0,Away
+D32029,Washington St at Brock St,42.3489528466951,-71.16031676530838,Brighton,Boston,place-sougr,South Street,Green Line,False,1063.0,Away
+D32030,Washington St at Temple Pl,42.35496799,-71.06097685,Downtown,Boston,place-dwnxg,Downtown Crossing,Red Line,True,87.0,Near
+D32031,Oak Square - 615 Washington St,42.35057,-71.166491,Brighton,Boston,place-lake,Boston College,Green Line,False,1167.0,Away
+D32032,Silber Way,42.34949599514002,-71.10057592391968,Fenway,Boston,place-bland,Blandford Street,Green Line,False,35.0,Near
+D32033,Commonwealth Ave at Chiswick Rd,42.34024644768889,-71.15168806174552,Brighton,Boston,place-chswk,Chiswick Road,Green Line,False,102.0,Near
+D32034,Commonwealth Ave at Kelton St,42.348358628170445,-71.13997217276847,Allston,Boston,place-wrnst,Warren Street,Green Line,False,40.0,Near
+D32035,Harvard Ave at Brainerd Rd,42.34953016890375,-71.13022770741735,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,122.0,Near
+D32036,Main St at Baldwin St,42.380857,-71.070629,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,627.0,Away
+D32037,Medford St at Charlestown BCYF,42.380429474494896,-71.06055721676967,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,1057.0,Away
+D32038,Main St at Thompson Sq,42.374878467440965,-71.06383498767171,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,488.0,Away
+D32039,Charlestown Navy Yard,42.374124549426526,-71.05481199938367,Charlestown,Boston,place-north,North Station,Orange Line,True,1089.0,Away
+D32040,Williams St at Washington St,42.306539,-71.107669,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,True,444.0,Away
+D32041,Stony Brook T Stop,42.316966,-71.104374,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,True,15.0,Near
+D32042,Park Plaza at Charles St S.,42.351828068920675,-71.06781138111728,Downtown,Boston,place-armnl,Arlington,Green Line,True,253.0,Near
+D32043,Harrison Ave at Bennet St,42.34942609892521,-71.06209959843909,Chinatown,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,152.0,Near
+D32044,Pearl St at Milk St,42.35677593,-71.05549774,Downtown,Boston,place-state,State Street,Orange Line,True,300.0,Near
+D32045,Dartmouth St at Newbury St,42.35096144421219,-71.07782810926437,Back Bay,Boston,place-coecl,Copley,Green Line,True,114.0,Near
+D32046,Boylston St at Exeter St,42.349589423682445,-71.0794677917329,Back Bay,Boston,place-coecl,Copley,Green Line,True,171.0,Near
+D32047,Clarendon St at Newbury St,42.35159662465317,-71.0756166279316,Back Bay,Boston,place-coecl,Copley,Green Line,True,235.0,Near
+D32048,Shawmut Ave at Oak St W,42.34854543411198,-71.06559185315746,Chinatown,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,185.0,Near
+D32049,Stuart St at Berkeley St,42.34954403114251,-71.0724207387284,Back Bay,Boston,place-armnl,Arlington,Green Line,True,291.0,Near
+D32050,Blossom St at Charles St,42.36254,-71.067059,West End,Boston,place-chmnl,Charles/MGH,Red Line,True,331.0,Near
+D32051,Main St at Devens St,42.37401575,-71.06331387,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,513.0,Away
+D32052,Jamaica St at South St,42.3060456272408,-71.11570891001975,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,True,610.0,Away
+D32053,Sullivan Square,42.38445225635843,-71.07514854529654,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,161.0,Near
+D32054,The Overlook at St. Gabriel's,42.34679008347347,-71.14549813806661,Brighton,Boston,place-wascm,Washington Street,Green Line,False,391.0,Near
+D32055,Boylston St at Dartmouth St,42.350287,-71.077505,Back Bay,Boston,place-coecl,Copley,Green Line,True,35.0,Near
+D32057,Clinton St at North St,42.3607028354884,-71.05524927377701,Downtown,Boston,place-state,State Street,Orange Line,True,272.0,Near
+D32058,Brighton Ave at Linden St,42.3528376,-71.1296752,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,320.0,Near
+D32059,Shawmut Ave at Lenox St,42.33584612997077,-71.08038157224655,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,678.0,Away
+D32060,Hood Park,42.38004534693313,-71.0730457305908,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,544.0,Away
+D32061,Lenox St at Kendall St,42.33759485033856,-71.08255058528357,Roxbury,Boston,place-masta,Massachusetts Avenue,Orange Line,True,441.0,Away
+D32062,Stuart St at Church St,42.35066667,-71.06830556,Downtown,Boston,place-armnl,Arlington,Green Line,True,253.0,Near
+D32063,Commonwealth Ave at Fidelis Way,42.345865,-71.141902,Brighton,Boston,place-wascm,Washington Street,Green Line,False,236.0,Near
+D32064,Main St at Salem St,42.3771,-71.06646,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,462.0,Away
+D32065,Constitution Rd at Chelsea St,42.3736,-71.05843,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,912.0,Away
+D32066,Medford St at McNulty Ct,42.37916,-71.0578627,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,1139.0,Away
+D32067,Chelsea St at Medford St,42.37857,-71.05298,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,1467.0,Away
+D320670,Commonwealth Ave at Chestnut Hill Dr,42.338415,-71.154428,Brighton,Boston,place-chill,Chestnut Hill Avenue,Green Line,False,108.0,Near
+D32068,Cross St at Stillman St,42.36370786,-71.05749336,North End,Boston,place-haecl,Haymarket,Orange Line,True,101.0,Near
+D32069,Shawmut Ave at E Berkeley St,42.344607,-71.06702,South End,Boston,place-tumnl,Tufts Medical Center,Orange Line,True,617.0,Away
+D32070,Rutherford Ave at Bunker Hill Industrial Park,42.379352,-71.071371,Charlestown,Boston,place-ccmnl,Community College,Orange Line,True,655.0,Away
+D32071,Rutherford Ave at Main St,42.38385,-71.073114,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,319.0,Near
+D32072,Walbridge St at Commonwealth Ave,42.34775567,-71.1356758,Allston,Boston,place-grigg,Griggs Street,Green Line,False,106.0,Near
+D32073,39 Brighton Ave,42.35299558,-71.126578,Allston,Boston,place-brico,Packard's Corner,Green Line,False,171.0,Near
+D32074,Market St at Mapleton St,42.35207673,-71.151571,Brighton,Boston,place-wrnst,Warren Street,Green Line,False,1003.0,Away
+D32075,Gardner St at Harvard Ave,42.353508,-71.131932,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,366.0,Near
+D32076,Oak Square - Washington St at Bigelow St,42.35062298,-71.16744293,Brighton,Boston,place-lake,Boston College,Green Line,False,1174.0,Away
+D32077,Washington St at Mina Way,42.35298248,-71.17322383,Brighton,Boston,place-lake,Boston College,Green Line,False,1530.0,Away
+D32078,Franklin St at Cambridge St,42.35579247,-71.13286475,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,629.0,Away
+D32079,Cambridge St at Warren St,42.350225,-71.146678,Allston,Boston,place-wrnst,Warren Street,Green Line,False,552.0,Away
+D32080,Rugg Rd at Braintree St,42.35608219,-71.13538923,Allston,Boston,place-harvd,Harvard Avenue,Green Line,False,729.0,Away
+D32081,Boylston T Stop,42.35250593,-71.06528293,Beacon Hill,Boston,place-boyls,Boylston,Green Line,True,81.0,Near
+E32001,Curtis Hall - South St at Centre St,42.309054,-71.11543,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,True,679.0,Away
+E32002,Jamaicaway at Perkins St,42.321251,-71.116483,Jamaica Plain,Boston,place-hsmnl,Heath Street,Green Line,False,938.0,Away
+E32003,Hyde Square - Centre St at Perkins St,42.32176525723952,-71.10984160567114,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,True,696.0,Away
+E32004,Egleston Square - Atherton St at Washington St,42.315692,-71.098634,Jamaica Plain,Boston,place-sbmnl,Stony Brook,Orange Line,True,486.0,Away
+E32005,Green Street T Stop - Green St at Amory St,42.310579,-71.107341,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,True,8.0,Near
+E32006,Jackson Square T Stop,42.32293117195949,-71.10014140605927,Jamaica Plain,Boston,place-jaksn,Jackson Square,Orange Line,True,50.0,Near
+E32007,S Huntington Ave at Heath St,42.32760387040573,-71.11089169979095,Jamaica Plain,Boston,place-hsmnl,Heath Street,Green Line,False,95.0,Near
+E32008,Centre St at Seaverns Ave,42.31358,-71.11405,Jamaica Plain,Boston,place-grnst,Green Street,Orange Line,True,643.0,Away
+E32009,Shawmut T Stop,42.292917,-71.06575,Dorchester,Boston,place-smmnl,Shawmut,Red Line,True,23.0,Near
+E32010,Forest Hills,42.300923,-71.114249,Jamaica Plain,Boston,place-forhl,Forest Hills,Orange Line,True,34.0,Near
+E32011,The Dimock Center,42.3193094317828,-71.09639923859504,Roxbury,Boston,place-jaksn,Jackson Square,Orange Line,True,500.0,Away
+E32012,Martha Eliot Health Center,42.324173,-71.10196,Jamaica Plain,Boston,place-jaksn,Jackson Square,Orange Line,True,226.0,Near
+E32013,Hyde Park Library,42.2568376,-71.122509,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,2746.0,Away
+E32014,Ross Playground,42.2645666,-71.1145523,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,1847.0,Away
+E32015,Lincoln St at Empire St,42.357651,-71.128513,Allston,Boston,place-brico,Packard's Corner,Green Line,False,694.0,Away
+E32016,Commonwealth Ave at Naples Rd,42.351911,-71.123798,Allston,Boston,place-brico,Packard's Corner,Green Line,False,102.0,Near
+E32017,Butler T Stop,42.272548,-71.062882,Dorchester,Boston,place-butlr,Butler,Mattapan Line,False,33.0,Near
+E32018,Truman Parkway at Fairmount Ave,42.252287,-71.118358,Hyde Park,Boston,place-matt,Mattapan Line,Mattapan Line,True,2728.0,Away
+F32001,Main St at Brooks Park,42.411709,-71.110444,,,place-mdftf,Medford/Tufts,Green Line,True,683.0,Away
+F32002,Medford Sq - Riverside Ave at River St,42.417724,-71.108102,,,place-mdftf,Medford/Tufts,Green Line,True,1309.0,Away
+F32003,Tufts Sq - Main St at Medford St,42.401697,-71.106128,,,place-balsq,Ball Square,Green Line,True,448.0,Away
+F32004,Harris Park,42.41081837243052,-71.08152866385353,,,place-welln,Wellington,Orange Line,True,1008.0,Away
+F32005,Haines Square,42.423331368452885,-71.09124541293568,,,place-mlmnl,Malden Center,Orange Line,True,1454.0,Away
+F32006,Hormel Stadium,42.40721644126376,-71.09651505947113,,,place-balsq,Ball Square,Green Line,True,1442.0,Away
+F32007,West Medford Square (Bower St at Harvard Ave),42.420647,-71.133483,,,place-mdftf,Medford/Tufts,Green Line,True,1951.0,Away
+F32008,Logan Park,42.41800742890374,-71.0965722102992,,,place-mdftf,Medford/Tufts,Green Line,True,2017.0,Away
+F32009,Hickey Park,42.424981,-71.098973,,,place-mlmnl,Malden Center,Orange Line,True,2049.0,Away
+F32011,Carr Park,42.434365,-71.094755,,,place-mlmnl,Malden Center,Orange Line,True,1900.0,Away
+F32012,Steve Miller Dr at Winthrop St (Medford High),42.428086,-71.12636,,,place-mdftf,Medford/Tufts,Green Line,True,2363.0,Away
+F32013,Governors Ave at Lawrence Rd,42.425178,-71.110386,,,place-mdftf,Medford/Tufts,Green Line,True,1989.0,Away
+F32014,Winthrop Circle,42.421361,-71.117556,,,place-mdftf,Medford/Tufts,Green Line,True,1489.0,Away
+F32015,Mystic Valley Parkway at River Station,42.415091,-71.139177,,,place-mdftf,Medford/Tufts,Green Line,True,1982.0,Away
+F32016,Mystic Ave at Crescent St,42.41081,-71.106276,,,place-mdftf,Medford/Tufts,Green Line,True,939.0,Away
+G32001,Malden Center T Station,42.426541,-71.073179,,,place-mlmnl,Malden Center,Orange Line,True,77.0,Near
+G32002,Northern Strand at Main St,42.42386,-71.067793,,,place-mlmnl,Malden Center,Orange Line,True,603.0,Away
+G32003,Malden High School,42.426537658440544,-71.06393694877625,,,place-mlmnl,Malden Center,Orange Line,True,835.0,Away
+G32004,Northern Strand at Bike Kitchen ,42.42083422873447,-71.07216525162619,,,place-mlmnl,Malden Center,Orange Line,True,664.0,Away
+G32005,Kierstead Park ,42.4293383849641,-71.05191290060668,,,place-ogmnl,Oak Grove,Orange Line,True,1773.0,Away
+G32006,Maplewood Square,42.43359,-71.046279,,,place-ogmnl,Oak Grove,Orange Line,True,2066.0,Away
+H32001,Cary Square,42.398135645582464,-71.030709722545,,,place-wimnl,Wood Island,Blue Line,True,2155.0,Away
+H320010,615 Broadway,42.394541,-71.030828,,,place-wimnl,Wood Island,Blue Line,True,1781.0,Away
+H32002,Bellingham Square,42.3931961102951,-71.03344559669495,,,place-wimnl,Wood Island,Blue Line,True,1740.0,Away
+H32003,Chelsea Square,42.390226711033826,-71.03857017704286,,,place-wimnl,Wood Island,Blue Line,True,1746.0,Away
+H32005,Chelsea Station,42.39636527849676,-71.03987179230899,,,place-wimnl,Wood Island,Blue Line,True,2326.0,Away
+H32006,855 Broadway,42.398417726101584,-71.02390923402707,,,place-orhte,Orient Heights,Blue Line,True,2032.0,Away
+K32001,Coolidge Corner - Beacon St at Centre St,42.341598,-71.123338,,,place-cool,Coolidge Corner,Green Line,False,180.0,Near
+K32002,Beacon St at Tappan St,42.33826680058037,-71.13894682028331,,,place-tapst,Tappan Street,Green Line,False,29.0,Near
+K32003,Brookline Village - Station Street at MBTA,42.33274392304887,-71.11626680949485,,,place-bvmnl,Brookline Village,Green Line,False,51.0,Near
+K32004,JFK Crossing at Harvard St. / Thorndike St.,42.346551241753566,-71.1283321143128,,,place-harvd,Harvard Avenue,Green Line,False,480.0,Away
+K32005,Brookline Town Hall,42.33376472623494,-71.12046446660315,,,place-bvmnl,Brookline Village,Green Line,False,323.0,Near
+K32006,Commonwealth Ave At Babcock St,42.35154734791375,-71.12126246094704,,,place-babck,Babcock Street,Green Line,False,110.0,Near
+K32007,St Mary's,42.346197076555455,-71.10728681087494,,,place-smary,Saint Mary's Street,Green Line,False,25.0,Near
+K32008,Tappan St at Brookline Hills MBTA,42.331370168043215,-71.1268836054569,,,place-brkhl,Brookline Hills,Green Line,False,18.0,Near
+K32009,Cypress St at Clark Playground,42.32784317478686,-71.1253622174263,,,place-brkhl,Brookline Hills,Green Line,False,401.0,Away
+K32010,High St at Cypress St,42.32464510949409,-71.12135231494904,,,place-brkhl,Brookline Hills,Green Line,False,862.0,Away
+K32011,Washington Sq,42.33985827126298,-71.13421171095978,,,place-bcnwa,Washington Square,Green Line,False,105.0,Near
+K32012,Marion St at Harvard St,42.340122426966424,-71.12070563810447,,,place-cool,Coolidge Corner,Green Line,False,226.0,Near
+K32015,1200 Beacon St,42.34414898749529,-71.11467361450195,,,place-kntst,Kent Street,Green Line,False,40.0,Near
+K32017,Harvard St and Stedman St,42.3443517550051,-71.12490355968475,,,place-sumav,Summit Avenue,Green Line,False,365.0,Near
+L32001,Railroad Lot and Minuteman Bikeway,42.41606457115141,-71.15336636682059,,,place-alfcl,Alewife,Red Line,True,2459.0,Away
+L320013,Mass Ave at Alewife Greenway,42.401364806487635,-71.13655772883486,,,place-alfcl,Alewife,Red Line,True,728.0,Away
+L32002,Linwood St at Minuteman Bikeway,42.40935395518158,-71.14906518727366,,,place-alfcl,Alewife,Red Line,True,1634.0,Away
+L32003,Mass Ave at Grafton St,42.40726052447951,-71.14382132425817,,,place-alfcl,Alewife,Red Line,True,1288.0,Away
+L32004,Broadway at Grafton St,42.40994213011757,-71.14009319811885,,,place-alfcl,Alewife,Red Line,True,1572.0,Away
+L32005,Thorndike Field at Minuteman Bikeway,42.40016804853787,-71.14456963094199,,,place-alfcl,Alewife,Red Line,True,553.0,Away
+L32007,Swan Place at Minuteman Bikeway,42.414705,-71.152377,,,place-alfcl,Alewife,Red Line,True,2288.0,Away
+L32008,Lake St. at Minuteman Bikeway,42.4041703390082,-71.14690375265656,,,place-alfcl,Alewife,Red Line,True,1036.0,Away
+L32009,Mill St. at Minuteman Bikeway,42.4186027386165,-71.15753579744356,,,place-alfcl,Alewife,Red Line,True,2862.0,Away
+L32010,Medford St at Warren St,42.41649057463282,-71.14813429053619,,,place-alfcl,Alewife,Red Line,True,2365.0,Away
+M32002,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,Wellington-Harrington,Cambridge,place-knncl,Kendall/MIT,Red Line,True,618.0,Away
+M32003,One Broadway / Kendall Sq at Main St / 3rd St,42.36224178650923,-71.0831107199192,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,253.0,Near
+M32004,Kendall T,42.3624278429124,-71.08495473861694,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,101.0,Near
+M32005,MIT Stata Center at Vassar St / Main St,42.3621312344991,-71.09115600585936,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,411.0,Away
+M32006,MIT at Mass Ave / Amherst St,42.3581,-71.093198,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,756.0,Away
+M32007,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,True,489.0,Away
+M32009,Lafayette Square at Mass Ave / Main St / Columbia St,42.36346469304347,-71.10057324171066,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,True,348.0,Near
+M32011,Central Square at Mass Ave / Essex St,42.36507,-71.1031,The Port,Cambridge,place-cntsq,Central,Red Line,True,74.0,Near
+M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,Riverside,Cambridge,place-cntsq,Central,Red Line,True,174.0,Near
+M32013,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,647.0,Away
+M32014,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,42.366621,-71.114214,Riverside,Cambridge,place-harsq,Harvard,Red Line,True,845.0,Away
+M32015,Vassal Lane at Tobin VLUS,42.384233,-71.140329,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,1292.0,Away
+M32016,Harvard Kennedy School at Bennett St / Eliot St,42.3722168027866,-71.12188071012497,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,272.0,Near
+M32017,Harvard Square at Brattle St / Eliot St,42.373328798874056,-71.12098601080106,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,167.0,Near
+M32018,Harvard Square at Mass Ave/ Dunster,42.373268,-71.118579,Riverside,Cambridge,place-harsq,Harvard,Red Line,True,33.0,Near
+M32019,Cambridgeside Pl at Land Blvd,42.366929,-71.076512,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,516.0,Away
+M32020,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,Baldwin,Cambridge,place-harsq,Harvard,Red Line,True,633.0,Away
+M32021,Harvard University Gund Hall at Quincy St / Kirkland St,42.376369,-71.114025,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,525.0,Away
+M32022,Lower Cambridgeport at Magazine St / Riverside Rd,42.357218503176526,-71.1138716340065,Cambridgeport,Cambridge,place-amory,Amory Street,Green Line,False,696.0,Away
+M32023,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,42.377945,-71.116865,Baldwin,Cambridge,place-harsq,Harvard,Red Line,True,538.0,Away
+M32024,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,42.380287,-71.125107,Neighborhood Nine,Cambridge,place-harsq,Harvard,Red Line,True,921.0,Away
+M32025,Linear Park - Mass. Ave. at Cameron Ave. ,42.397828,-71.130516,North Cambridge,Cambridge,place-davis,Davis,Red Line,True,725.0,Away
+M32026,359 Broadway - Broadway at Fayette Street,42.370803,-71.104412,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,True,593.0,Away
+M32027,Binney St / Sixth St,42.36608797388682,-71.08633603909765,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,400.0,Near
+M32028,359 Broadway ,42.370801,-71.104451,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,True,593.0,Away
+M32029,Porter Square Station,42.387995,-71.119084,Baldwin,Cambridge,place-portr,Porter,Red Line,True,45.0,Near
+M32030,Dana Park,42.36178043960605,-71.10809952020645,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,True,543.0,Away
+M32031,Danehy Park,42.388966,-71.132788,Neighborhood Nine,Cambridge,place-alfcl,Alewife,Red Line,True,1034.0,Away
+M32032,Kendall Street,42.363076,-71.082321,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,323.0,Near
+M32033,Alewife Station at Russell Field,42.396232033400906,-71.13978801815482,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,131.0,Near
+M32034,EF - North Point Park,42.369885,-71.069957,East Cambridge,Cambridge,place-spmnl,Science Park,Green Line,True,405.0,Away
+M32035,Rogers St & Land Blvd,42.366446738529454,-71.07654601335526,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,570.0,Away
+M32036,Rindge Avenue - O'Neill Library,42.392766,-71.129042,North Cambridge,Cambridge,place-davis,Davis,Red Line,True,740.0,Away
+M32037,Ames St at Main St,42.3625,-71.08822,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,168.0,Near
+M32038,Harvard University River Houses at DeWolfe St / Cowperthwaite St,42.369239074859216,-71.11687034368515,Riverside,Cambridge,place-harsq,Harvard,Red Line,True,489.0,Away
+M32039,Lesley University,42.38674802045056,-71.11901879310608,Baldwin,Cambridge,place-portr,Porter,Red Line,True,184.0,Near
+M32040,University Park,42.36264779118595,-71.10006093978882,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,True,441.0,Away
+M32041,MIT Pacific St at Purrington St,42.35957320109044,-71.10129475593567,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,True,689.0,Away
+M32042,MIT Vassar St,42.355601213279265,-71.10394477844238,Area 2/MIT,Cambridge,place-buest,Boston University East,Green Line,False,652.0,Away
+M32043,Mt Auburn,42.374932,-71.135304,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,1354.0,Away
+M32044,Huron Ave At Vassal Lane,42.381650612901176,-71.13426981498378,West Cambridge,Cambridge,place-portr,Porter,Red Line,True,1451.0,Away
+M32045,Museum of Science,42.36769018024484,-71.07116281986237,East Cambridge,Cambridge,place-spmnl,Science Park,Green Line,True,309.0,Near
+M32046,Alewife MBTA at Steel Place,42.395588457167094,-71.14260613918304,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,112.0,Near
+M32047,Sidney Research Campus/Erie Street at Waverly,42.35775309465199,-71.10393404960632,Cambridgeport,Cambridge,place-cntsq,Central,Red Line,True,860.0,Away
+M32048,Third at Binney,42.36544486137399,-71.08277142047882,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,431.0,Away
+M32049,Child Street at Brian P. Murphy Staircase,42.371976784679745,-71.07200495972165,East Cambridge,Cambridge,place-ccmnl,Community College,Orange Line,True,273.0,Near
+M32050,Verizon Innovation Hub 10 Ware Street,42.37250864997261,-71.11305356025696,Mid-Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,494.0,Away
+M32051,Fresh Pond Reservation,42.38267827521855,-71.143478951426,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,1473.0,Away
+M32052,Cambridge Dept. of Public Works -147 Hampshire St.,42.37119727759414,-71.09759867191315,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,True,724.0,Away
+M32053,One Memorial Drive,42.36184554836038,-71.08200997856305,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,350.0,Near
+M32054,699 Mt Auburn St,42.37500235137831,-71.14871613699506,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,2395.0,Away
+M32055,Harvard St at Greene-Rose Heritage Park,42.36599432867437,-71.09522221614498,The Port,Cambridge,place-cntsq,Central,Red Line,True,707.0,Away
+M32056,Mass Ave at Hadley/Walden,42.39120971915856,-71.12260755160605,North Cambridge,Cambridge,place-portr,Porter,Red Line,True,422.0,Away
+M32057,Vassal Lane at Tobin/VLUS,42.38536765218425,-71.13775670528412,West Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,1199.0,Away
+M32058,84 Cambridgepark Dr,42.3936,-71.143941,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,330.0,Near
+M32059,Ames St at Broadway,42.3636929,-71.0875672,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,176.0,Near
+M32060,700 Huron Ave,42.380788172914286,-71.15412890911102,Strawberry Hill,Cambridge,place-alfcl,Alewife,Red Line,True,1977.0,Away
+M32061,Mass Ave at Albany St,42.36135837662249,-71.09670273977825,The Port,Cambridge,place-cntsq,Central,Red Line,True,742.0,Away
+M32062,Inman Square at Springfield St.,42.37426713524931,-71.10026478767395,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,True,568.0,Away
+M32063,Sennott Park Broadway at Norfolk Street,42.36860524248197,-71.09930185605663,The Port,Cambridge,place-cntsq,Central,Red Line,True,507.0,Away
+M32064,75 Binney St,42.36550728505653,-71.0801375997653,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,599.0,Away
+M32065,Kennedy-Longfellow School 158 Spring St,42.36955297756508,-71.08579014980933,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,786.0,Away
+M32066,Discovery Park - 30 Acorn Park Drive,42.39790817368333,-71.14797130814623,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,596.0,Away
+M32067,Berkshire Street at Cambridge Street,42.37207657915397,-71.08995433905875,Wellington-Harrington,Cambridge,place-unsqu,Union Square,Green Line,True,708.0,Away
+M32068,Graham and Parks School – Linnaean St at Walker St,42.38294430172271,-71.12449831038248,Neighborhood Nine,Cambridge,place-portr,Porter,Red Line,True,749.0,Away
+M32069,Smith Pl at Wilson Rd,42.39239749145834,-71.15058331757609,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,True,854.0,Away
+M32070,MIT Carleton St at Amherst St,42.36054174140606,-71.08669817447662,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,221.0,Near
+M32071,MIT Hayward St at Amherst St,42.36085937353302,-71.08551858007559,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,189.0,Near
+M32072,Galileo Galilei Way at Main Street,42.363003781560096,-71.08974037706501,Area 2/MIT,Cambridge,place-knncl,Kendall/MIT,Red Line,True,298.0,Near
+M32073,955 Mass Ave,42.36895180540729,-71.10998779535294,Mid-Cambridge,Cambridge,place-cntsq,Central,Red Line,True,638.0,Away
+M32074,Concord Ave at Spinelli Place,42.390719,-71.1538877,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,True,1181.0,Away
+M32075,Danehy Park at New Street,42.389456,-71.139019,Neighborhood Nine,Cambridge,place-alfcl,Alewife,Red Line,True,733.0,Away
+M32076,Old Morse Park at Putnam Ave,42.35766247889882,-71.1084133386612,Cambridgeport,Cambridge,place-bucen,Boston University Central,Green Line,False,852.0,Away
+M32077,Cambridge Crossing at North First Street,42.371141,-71.076198,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,57.0,Near
+M32078,Galileo Galilei Way at Fulkerson St/Binney St,42.3664204,-71.0885418,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,478.0,Away
+M32079,Raymond Park at Walden St,42.38736953747185,-71.12761001482795,Neighborhood Nine,Cambridge,place-portr,Porter,Red Line,True,704.0,Away
+M32080,Main Street/Albany Street/Technology Square,42.3629016,-71.0915669,The Port,Cambridge,place-knncl,Kendall/MIT,Red Line,True,445.0,Away
+M32081,Gore Street at Lambert Street,42.373079797934935,-71.08634233665725,East Cambridge,Cambridge,place-esomr,East Somerville,Green Line,True,711.0,Away
+M32082,Broad Canal Way at Third Street,42.36304549626695,-71.08287078916874,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,279.0,Near
+M32083,John Ahern Field at Kennedy-Longfellow School,42.36903566594827,-71.08630959910442,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,728.0,Away
+M32084,87-101 Cambridgepark Drive,42.395221870310664,-71.14421904097979,North Cambridge,Cambridge,place-alfcl,Alewife,Red Line,True,250.0,Near
+M32085,Mass Ave/Lafayette Square,42.36356498989399,-71.10044184048091,The Port,Cambridge,place-cntsq,Central,Red Line,True,349.0,Near
+M32086,Morgan Ave at North First St,42.37197725963389,-71.07585847383234,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,75.0,Near
+M32087,Church St,42.37433925370521,-71.11966431146357,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,123.0,Near
+M32088,55 Wheeler Street,42.390821,-71.143946,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,True,598.0,Away
+M32089,Moore Youth Center,42.363539,-71.111698,Riverside,Cambridge,place-cntsq,Central,Red Line,True,684.0,Away
+M32090,O'Brien Highway at First Street,42.370982,-71.076638,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,66.0,Near
+M32091,325 Binney St.,42.36722,-71.08903,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,576.0,Away
+M32092,Elevate at One Leighton,42.369931,-71.073526,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,310.0,Near
+M32093,101 Smith Place,42.392568,-71.150761,Cambridge Highlands,Cambridge,place-alfcl,Alewife,Red Line,True,858.0,Away
+M32094,40 Thorndike St,42.369061,-71.079999,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,396.0,Near
+M32095,Lechmere Canal Park,42.36984,-71.076079,East Cambridge,Cambridge,place-lech,Lechmere,Green Line,True,197.0,Near
+M32096,Craigie St at Brattle St/Sparks St,42.377923377417865,-71.1300602747914,West Cambridge,Cambridge,place-harsq,Harvard,Red Line,True,1044.0,Away
+N32000,Centre St at Washington St,42.35574334805774,-71.18641942508475,,,place-lake,Boston College,Green Line,False,2375.0,Away
+N32001,Washington St at Crafts St,42.35389024396587,-71.19943707257335,,,place-newto,Newton Centre,Green Line,False,2779.0,Away
+N32002,Nonantum Library,42.36068455768156,-71.20146199598821,,,place-newto,Newton Centre,Green Line,False,3553.0,Away
+N32003,Bacon St at Washington St,42.35711920909866,-71.1860453666327,,,place-lake,Boston College,Green Line,False,2470.0,Away
+N32005,West Newton,42.34960049864208,-71.2262749671936,,,place-woodl,Woodland,Green Line,False,2328.0,Away
+N32006,Watertown St at Albemarle Rd,42.354104081396585,-71.21382214128971,,,place-newto,Newton Centre,Green Line,False,3258.0,Away
+N32008,Langley Lot,42.329607,-71.193701,,,place-newto,Newton Centre,Green Line,False,107.0,Near
+N32009,Boston College T,42.33987891612856,-71.16708934307098,,,place-lake,Boston College,Green Line,False,35.0,Near
+N32010,Newton Highlands T,42.322065656952944,-71.2063729763031,,,place-newtn,Newton Highlands,Green Line,False,79.0,Near
+N32011,California at Chapel,42.365148708129546,-71.20236039161682,,,place-lake,Boston College,Green Line,False,4040.0,Away
+N32012,Beacon at Walnut,42.330062324402995,-71.20668411254883,,,place-newtn,Newton Highlands,Green Line,False,860.0,Away
+N32013,Newton Library,42.336203368830134,-71.207794547081,,,place-newto,Newton Centre,Green Line,False,1471.0,Away
+N32014,Washington St at Walnut St,42.351458116963016,-71.20764970779419,,,place-newto,Newton Centre,Green Line,False,2750.0,Away
+N32015,Auburndale,42.34805541493346,-71.2477594614029,,,place-river,Riverside,Green Line,True,1257.0,Away
+N32018,Centre St at Commonwealth Ave,42.3362358,-71.1934421,,,place-newto,Newton Centre,Green Line,False,760.0,Away
+R32001,Sumner St at Shirley Ave,42.408337058129746,-70.99804848432541,,,place-rbmnl,Revere Beach,Blue Line,True,456.0,Away
+R32002,Orr Sq (Shirley Ave),42.40715655698643,-70.99272429943085,,,place-rbmnl,Revere Beach,Blue Line,True,78.0,Near
+R32003,Beachmont Square at Suffolk Downs,42.3976083,-70.99307222,,,place-bmmnl,Beachmont,Blue Line,True,62.0,Near
+R32004,Northern Strand at Salem Street,42.441956,-71.01468,,,place-wondl,Wonderland,Blue Line,True,3693.0,Away
+R32006,Revere City Hall,42.40741,-71.0139,,,place-rbmnl,Revere Beach,Blue Line,True,1755.0,Away
+R32007,Revere Public Library,42.408088,-71.008942,,,place-rbmnl,Revere Beach,Blue Line,True,1347.0,Away
+R32008,Eliot Circle Revere Beach,42.402889,-70.989972,,,place-rbmnl,Revere Beach,Blue Line,True,590.0,Away
+R32009,Revere Beach - Markey Footbridge,42.414019,-70.989609,,,place-wondl,Wonderland,Blue Line,True,180.0,Near
+S32001,Somerville City Hall,42.386844,-71.09812,,,place-gilmn,Gilman Square,Green Line,True,164.0,Near
+S32002,Union Square - Somerville,42.37964789967527,-71.09540475672475,,,place-unsqu,Union Square,Green Line,True,260.0,Near
+S32003,Beacon St at Washington / Kirkland,42.37875351212593,-71.10707223415375,,,place-unsqu,Union Square,Green Line,True,1023.0,Away
+S32004,Conway Park - Somerville Avenue,42.383638948222654,-71.10853672027588,,,place-portr,Porter,Red Line,True,1020.0,Away
+S32005,Wilson Square,42.38567578752914,-71.11412136298895,,,place-portr,Porter,Red Line,True,512.0,Away
+S32006,Davis Square,42.396969,-71.123024,,,place-davis,Davis,Red Line,True,102.0,Near
+S32007,Ball Sq,42.39936816059618,-71.11111521723615,,,place-balsq,Ball Square,Green Line,True,59.0,Near
+S32008,Powder House Circle - Nathan Tufts Park,42.400877,-71.116772,,,place-balsq,Ball Square,Green Line,True,486.0,Away
+S32009,Packard Ave at Powderhouse Blvd,42.40449,-71.123413,,,place-mdftf,Medford/Tufts,Green Line,True,651.0,Away
+S32010,Clarendon Hill at Broadway,42.406302,-71.132446,,,place-mdftf,Medford/Tufts,Green Line,True,1278.0,Away
+S32011,Teele Square,42.40087950159558,-71.12590793383788,,,place-davis,Davis,Red Line,True,570.0,Away
+S32013,Magoun Square at Trum Field,42.39778339961249,-71.10594004465383,,,place-mgngl,Magoun Square,Green Line,True,458.0,Away
+S32014,Broadway St at Mt Pleasant St,42.38614141163957,-71.07828140258789,,,place-sull,Sullivan Square,Orange Line,True,263.0,Near
+S32015,Foss Park,42.39108438146733,-71.09039425849915,,,place-gilmn,Gilman Square,Green Line,True,630.0,Away
+S32016,Broadway at Central St,42.39517150121575,-71.09850591982195,,,place-mgngl,Magoun Square,Green Line,True,668.0,Away
+S32017,East Somerville Library (Broadway and Illinois),42.3876281075134,-71.08318716287613,,,place-sull,Sullivan Square,Orange Line,True,651.0,Away
+S32018,Assembly Square T,42.39223284004627,-71.07746601104736,,,place-astao,Assembly,Orange Line,True,67.0,Near
+S32019,Grove St at Community Path,42.396386809455,-71.12011306006025,,,place-davis,Davis,Red Line,True,145.0,Near
+S32021,Washington St at Myrtle St,42.3817508,-71.0839523,,,place-esomr,East Somerville,Green Line,True,336.0,Near
+S32022,Community Path at Cedar Street,42.39407223665884,-71.11133694648743,,,place-mgngl,Magoun Square,Green Line,True,409.0,Away
+S32023,30 Dane St,42.38100143038052,-71.10402522613185,,,place-unsqu,Union Square,Green Line,True,862.0,Away
+S32034,Perry Park,42.37927324600841,-71.10341902831351,,,place-unsqu,Union Square,Green Line,True,742.0,Away
+S32035,191 Beacon St,42.38032335045416,-71.10878612855231,,,place-harsq,Harvard,Red Line,True,1139.0,Away
+S32036,Somerville City Hall Annex,42.39189811591863,-71.09745375830244,,,place-gilmn,Gilman Square,Green Line,True,445.0,Away
+S32037,Craigie St at Summer St,42.38831607584243,-71.1106824874878,,,place-mgngl,Magoun Square,Green Line,True,693.0,Away
+S32038,Edgerly Education Center,42.38717463348314,-71.08714388528824,,,place-gilmn,Gilman Square,Green Line,True,795.0,Away
+S32039,Elm St at White St,42.38952436305763,-71.11694140364307,,,place-portr,Porter,Red Line,True,220.0,Near
+S32040,Community Path at Lowell St,42.392525,-71.105587,,,place-mgngl,Magoun Square,Green Line,True,144.0,Near
+S32041,Union Square East,42.380078,-71.090098,,,place-esomr,East Somerville,Green Line,True,293.0,Near
+S32046,Gilman Square T at Medford St,42.3867355,-71.0946444,,,place-gilmn,Gilman Square,Green Line,True,219.0,Near
+S32047,Foley St at Grand Union Blvd,42.39301840035393,-71.08071684837341,,,place-astao,Assembly,Orange Line,True,285.0,Near
+S32048,Somerville High School & Central Library,42.3864,-71.09601,,,place-gilmn,Gilman Square,Green Line,True,181.0,Near
+S32050,Boynton Yards at 101 South Street,42.37546,-71.091217,,,place-unsqu,Union Square,Green Line,True,360.0,Near
+S32052,Somerville Hospital,42.390413,-71.108571,,,place-mgngl,Magoun Square,Green Line,True,405.0,Away
+S32053,Chestnut St at Poplar St,42.377636,-71.085954,,,place-esomr,East Somerville,Green Line,True,211.0,Near
+S32054,Union Square Station,42.377309,-71.094428,,,place-unsqu,Union Square,Green Line,True,28.0,Near
+S32055,Grand Union Blvd at Revolution Dr,42.391658,-71.080351,,,place-astao,Assembly,Orange Line,True,285.0,Near
+S32056,Craigie & Summer at Conway Park (Temp. Winter Location),42.383384,-71.107511,,,place-gilmn,Gilman Square,Green Line,True,1017.0,Away
+S32057,Innerbelt at East Somerville Station,42.37960965003606,-71.0864374968312,,,place-esomr,East Somerville,Green Line,True,22.0,Near
+S32060,Middlesex Ave at Foley St,42.392821,-71.083186,,,place-astao,Assembly,Orange Line,True,487.0,Away
+T32001,Salem Ferry Landing,42.52189284110247,-70.8806911110878,,,place-wondl,Wonderland,Blue Line,True,15110.0,Away
+T32002,Salem Willows Park,42.53466911383265,-70.87021440267563,,,place-wondl,Wonderland,Blue Line,True,16762.0,Away
+T32003,Shetland Park - Congress at Peabody St,42.51836788262243,-70.88952362537384,,,place-wondl,Wonderland,Blue Line,True,14365.0,Away
+T32004,Mayor Salvo Path at Mill St,42.51803519796769,-70.89570075273514,,,place-wondl,Wonderland,Blue Line,True,14045.0,Away
+T32005,Salem MBTA - Washington at Federal St,42.52345239346618,-70.89611113071442,,,place-wondl,Wonderland,Blue Line,True,14529.0,Away
+T32006,Lafayette at Leach St,42.51142784358897,-70.89183300733566,,,place-wondl,Wonderland,Blue Line,True,13631.0,Away
+T32007 ,Salem State University - Bike Path at Loring Ave,42.50182398896298,-70.89478075504303,,,place-wondl,Wonderland,Blue Line,True,12640.0,Away
+T32008,Hawthorne Boulevard,42.5223714,-70.8903331,,,place-wondl,Wonderland,Blue Line,True,14691.0,Away
+T32009,Salem State University - North Campus,42.503332,-70.891444,,,place-wondl,Wonderland,Blue Line,True,12943.0,Away
+T32010,Forest River Park,42.506395,-70.88693,,,place-wondl,Wonderland,Blue Line,True,13442.0,Away
+T32011,Essex St at Dalton Parkway,42.516223,-70.905535,,,place-wondl,Wonderland,Blue Line,True,13438.0,Away
+T32012,Salem MBTA - Lower Level,42.523994,-70.89684,,,place-wondl,Wonderland,Blue Line,True,14548.0,Away
+T32013,Community Life Center,42.520136,-70.906271,,,place-wondl,Wonderland,Blue Line,True,13779.0,Away
+T32014,Goodhue St at Grove St,42.520897,-70.910528,,,place-wondl,Wonderland,Blue Line,True,13678.0,Away
+T32015,North St at Liberty Hill Ave,42.52989964975891,-70.90614259243011,,,place-wondl,Wonderland,Blue Line,True,14729.0,Away
+T32016,Bridge Street Neck,42.52810051875824,-70.88971138000488,,,place-wondl,Wonderland,Blue Line,True,15248.0,Away
+T32017,Vinnin Square,42.48628784971989,-70.90166732668875,,,place-wondl,Wonderland,Blue Line,True,10962.0,Away
+T32018,Derby Street,42.520096183311445,-70.8913904428482,,,place-wondl,Wonderland,Blue Line,True,14434.0,Away
+T32019,Flint St. at Bridge St.,42.521393,-70.905806,,,place-wondl,Wonderland,Blue Line,True,13918.0,Away
+V32001,7 Acre Park,42.41143222973408,-71.06823265090497,,,place-welln,Wellington,Orange Line,True,1242.0,Away
+V32003,Everett Square (Broadway at Norwood St),42.407381,-71.055356,,,place-welln,Wellington,Orange Line,True,1869.0,Away
+V32004,Broadway at Lynde St,42.39648358247693,-71.06546759905541,,,place-astao,Assembly,Orange Line,True,1051.0,Away
+V32005,Encore,42.39329263225162,-71.0724475979805,,,place-astao,Assembly,Orange Line,True,399.0,Near
+V32006,Glendale Square (Ferry St at Broadway),42.41427294293992,-71.04479655659816,,,place-mlmnl,Malden Center,Orange Line,True,2771.0,Away
+V32007,Swan St. Park,42.412504507772105,-71.05842225271772,,,place-welln,Wellington,Orange Line,True,1902.0,Away
+V32008,Broadway at Maple St,42.410346909767846,-71.05260457852637,,,place-welln,Wellington,Orange Line,True,2197.0,Away
+V32009,Pope John High School,42.420348701645025,-71.04419767862055,,,place-mlmnl,Malden Center,Orange Line,True,2553.0,Away
+V32011,Broadway at Beacham St,42.39836059620832,-71.06373842814719,,,place-welln,Wellington,Orange Line,True,1183.0,Away
+V32012,Hale Park,42.41532709603205,-71.05281829839441,,,place-mlmnl,Malden Center,Orange Line,True,2153.0,Away
+V32013,Kearins Playground,42.40616124132245,-71.06041654944418,,,place-welln,Wellington,Orange Line,True,1432.0,Away
+V32014,Wellington MBTA,42.4023682,-71.07573182424781,,,place-welln,Wellington,Orange Line,True,111.0,Near
+V32015,Gramsdorf Playground,42.408156,-71.0429,,,place-welln,Wellington,Orange Line,True,2879.0,Away
+V32016,Chelsea St at Vine St,42.403369462300134,-71.04731440549585,,,place-welln,Wellington,Orange Line,True,2447.0,Away
+V32017,Northern Strand - West St & Wellington Ave,42.403444,-71.063278,,,place-welln,Wellington,Orange Line,True,1140.0,Away
+W32001,Coolidge Sq.,42.372076114722866,-71.15683130688922,,,place-alfcl,Alewife,Red Line,True,2934.0,Away
+W32002,Watertown Sq,42.365260317694485,-71.18573324459247,,,place-lake,Boston College,Green Line,False,3204.0,Away
+W32004,Arsenal Yards,42.36277388549605,-71.15764854490408,,,place-wrnst,Warren Street,Green Line,False,2138.0,Away
+W32005,Watertown City Hall,42.36759307632294,-71.18751436471939,,,place-lake,Boston College,Green Line,False,3502.0,Away
+W32006,160 Arsenal St,42.36466403441681,-71.17569386959076,,,place-lake,Boston College,Green Line,False,2830.0,Away
+W32007,Nichols Ave. at Watertown Greenway,42.36762048745005,-71.1565663665533,,,place-wrnst,Warren Street,Green Line,False,2519.0,Away
+W32009,Arsenal on the Charles,42.36349850640871,-71.16421658177295,,,place-wrnst,Warren Street,Green Line,False,2579.0,Away
+W32010,Watertown St at 5th Ave,42.36289,-71.19127,,,place-lake,Boston College,Green Line,False,3238.0,Away
+W32011,99 Coolidge Ave,42.363675,-71.151786,,,place-wrnst,Warren Street,Green Line,False,1942.0,Away
+W32012,Galen St at Watertown St,42.36428,-71.18573,,,place-lake,Boston College,Green Line,False,3109.0,Away
+X32001,Warehouse Pillar Manager,42.38645499610106,-71.07541964272968,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,305.0,Near
+X32999,18 Dorrance Warehouse,42.387151,-71.075978,Charlestown,Boston,place-sull,Sullivan Square,Orange Line,True,363.0,Near
+Z32997,Parker St at Huntington Ave,42.3384884941905,-71.09261138044758,Fenway,Boston,place-mfa,Museum of Fine Arts,Green Line,False,254.0,Near
+Z32998,Broadway at Kittie Knox Bike Path,42.36412658996667,-71.0873863200095,East Cambridge,Cambridge,place-knncl,Kendall/MIT,Red Line,True,207.0,Near
+Z32999,Cummins Highway at Blue Hill Ave T Stop,42.269988465946064,-71.09746182817616,Mattapan,Boston,place-matt,Mattapan Line,Mattapan Line,True,487.0,Away
+ZZ32996,Auburn St. at Mystic River,42.41759089672136,-71.12608127863496,,,place-mdftf,Medford/Tufts,Green Line,True,1301.0,Away
