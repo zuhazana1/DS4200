@@ -18,6 +18,8 @@ import geopandas as gpd
 import pandas as pd
 import shapely
 
+from chart_style import BIKE_COLOR, T_COLOR
+
 
 def find_file(*patterns):
     for p in patterns:
@@ -26,9 +28,6 @@ def find_file(*patterns):
             return hits[0]
     raise FileNotFoundError(f"Could not find {patterns}")
 
-
-BIKE_COLOR = "#1F6FB2"   # same colors as the hourly chart
-T_COLOR = "#E07B00"
 
 # ---------- background: Boston + Cambridge neighborhoods ----------
 parts = []
